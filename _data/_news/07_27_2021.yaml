@@ -1,0 +1,1428 @@
+---
+article:
+- source:
+    id: engadget
+    name: Engadget
+  author: https://www.engadget.com/about/editors/mariella-moon
+  title: Lucasfilm hires YouTuber who used deepfake to improve 'The Mandalorian' |
+    Engadget
+  description: Lucasfilm hires YouTuber who uses deepfake to fix bad CGI..
+  url: https://www.engadget.com/lucasfilm-hires-shamook-054904077.html
+  urlToImage: https://s.yimg.com/os/creatr-uploaded-images/2021-07/e0114640-ee8d-11eb-bf75-08177b7ff823
+  publishedAt: '2021-07-27T05:52:20.339448Z'
+  content: Luke Skywalker's CGI face in the character's The Mandalorian cameo was
+    met with a lot of criticism, and fans even tried to fix the scene with various
+    tools and programs. One of those fans did so well… [+1408 chars]
+  page_url: "/lucasfilm-hires-shamook-054904077.html"
+  summary: "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta http-equiv=\"content-type\"
+    content=\"text/html; charset=utf-8\">\n  <meta name=\"robots\" content=\"NONE,NOARCHIVE\">\n
+    \ <title>LookupError\n          at /api/</title>\n  <style type=\"text/css\">\n
+    \   html * { padding:0; margin:0; }\n    body * { padding:10px 20px; }\n    body
+    * * { padding:0; }\n    body { font:small sans-serif; background-color:#fff; color:#000;
+    }\n    body>div { border-bottom:1px solid #ddd; }\n    h1 { font-weight:normal;
+    }\n    h2 { margin-bottom:.8em; }\n    h3 { margin:1em 0 .5em 0; }\n    h4 { margin:0
+    0 .5em 0; font-weight: normal; }\n    code, pre { font-size: 100%; white-space:
+    pre-wrap; }\n    table { border:1px solid #ccc; border-collapse: collapse; width:100%;
+    background:white; }\n    tbody td, tbody th { vertical-align:top; padding:2px
+    3px; }\n    thead th {\n      padding:1px 6px 1px 3px; background:#fefefe; text-align:left;\n
+    \     font-weight:normal; font-size:11px; border:1px solid #ddd;\n    }\n    tbody
+    th { width:12em; text-align:right; color:#666; padding-right:.5em; }\n    table.vars
+    { margin:5px 0 2px 40px; }\n    table.vars td, table.req td { font-family:monospace;
+    }\n    table td.code { width:100%; }\n    table td.code pre { overflow:hidden;
+    }\n    table.source th { color:#666; }\n    table.source td { font-family:monospace;
+    white-space:pre; border-bottom:1px solid #eee; }\n    ul.traceback { list-style-type:none;
+    color: #222; }\n    ul.traceback li.frame { padding-bottom:1em; color:#4f4f4f;
+    }\n    ul.traceback li.user { background-color:#e0e0e0; color:#000 }\n    div.context
+    { padding:10px 0; overflow:hidden; }\n    div.context ol { padding-left:30px;
+    margin:0 10px; list-style-position: inside; }\n    div.context ol li { font-family:monospace;
+    white-space:pre; color:#777; cursor:pointer; padding-left: 2px; }\n    div.context
+    ol li pre { display:inline; }\n    div.context ol.context-line li { color:#464646;
+    background-color:#dfdfdf; padding: 3px 2px; }\n    div.context ol.context-line
+    li span { position:absolute; right:32px; }\n    .user div.context ol.context-line
+    li { background-color:#bbb; color:#000; }\n    .user div.context ol li { color:#666;
+    }\n    div.commands { margin-left: 40px; }\n    div.commands a { color:#555; text-decoration:none;
+    }\n    .user div.commands a { color: black; }\n    #summary { background: #ffc;
+    }\n    #summary h2 { font-weight: normal; color: #666; }\n    #explanation { background:#eee;
+    }\n    #template, #template-not-exist { background:#f6f6f6; }\n    #template-not-exist
+    ul { margin: 0 0 10px 20px; }\n    #template-not-exist .postmortem-section { margin-bottom:
+    3px; }\n    #unicode-hint { background:#eee; }\n    #traceback { background:#eee;
+    }\n    #requestinfo { background:#f6f6f6; padding-left:120px; }\n    #summary
+    table { border:none; background:transparent; }\n    #requestinfo h2, #requestinfo
+    h3 { position:relative; margin-left:-100px; }\n    #requestinfo h3 { margin-bottom:-1em;
+    }\n    .error { background: #ffc; }\n    .specific { color:#cc3300; font-weight:bold;
+    }\n    h2 span.commands { font-size:.7em; font-weight:normal; }\n    span.commands
+    a:link {color:#5E5694;}\n    pre.exception_value { font-family: sans-serif; color:
+    #575757; font-size: 1.5em; margin: 10px 0 10px 0; }\n    .append-bottom { margin-bottom:
+    10px; }\n    .fname { user-select: all; }\n  </style>\n  \n  <script>\n    function
+    hideAll(elems) {\n      for (var e = 0; e < elems.length; e++) {\n        elems[e].style.display
+    = 'none';\n      }\n    }\n    window.onload = function() {\n      hideAll(document.querySelectorAll('table.vars'));\n
+    \     hideAll(document.querySelectorAll('ol.pre-context'));\n      hideAll(document.querySelectorAll('ol.post-context'));\n
+    \     hideAll(document.querySelectorAll('div.pastebin'));\n    }\n    function
+    toggle() {\n      for (var i = 0; i < arguments.length; i++) {\n        var e
+    = document.getElementById(arguments[i]);\n        if (e) {\n          e.style.display
+    = e.style.display == 'none' ? 'block': 'none';\n        }\n      }\n      return
+    false;\n    }\n    function varToggle(link, id) {\n      toggle('v' + id);\n      var
+    s = link.getElementsByTagName('span')[0];\n      var uarr = String.fromCharCode(0x25b6);\n
+    \     var darr = String.fromCharCode(0x25bc);\n      s.textContent = s.textContent
+    == uarr ? darr : uarr;\n      return false;\n    }\n    function switchPastebinFriendly(link)
+    {\n      s1 = \"Switch to copy-and-paste view\";\n      s2 = \"Switch back to
+    interactive view\";\n      link.textContent = link.textContent.trim() == s1 ?
+    s2: s1;\n      toggle('browserTraceback', 'pastebinTraceback');\n      return
+    false;\n    }\n  </script>\n  \n</head>\n<body>\n<div id=\"summary\">\n  <h1>LookupError\n
+    \      at /api/</h1>\n  <pre class=\"exception_value\">\n**********************************************************************\n
+    \ Resource \e[93mpunkt\e[0m not found.\n  Please use the NLTK Downloader to obtain
+    the resource:\n\n  \e[31m&gt;&gt;&gt; import nltk\n  &gt;&gt;&gt; nltk.download(&#x27;punkt&#x27;)\n
+    \ \e[0m\n  For more information see: https://www.nltk.org/data.html\n\n  Attempted
+    to load \e[93mtokenizers/punkt/PY3/english.pickle\e[0m\n\n  Searched in:\n    -
+    &#x27;/app/nltk_data&#x27;\n    - &#x27;/app/.heroku/python/nltk_data&#x27;\n
+    \   - &#x27;/app/.heroku/python/share/nltk_data&#x27;\n    - &#x27;/app/.heroku/python/lib/nltk_data&#x27;\n
+    \   - &#x27;/usr/share/nltk_data&#x27;\n    - &#x27;/usr/local/share/nltk_data&#x27;\n
+    \   - &#x27;/usr/lib/nltk_data&#x27;\n    - &#x27;/usr/local/lib/nltk_data&#x27;\n
+    \   - &#x27;&#x27;\n**********************************************************************\n</pre>\n
+    \ <table class=\"meta\">\n\n    <tr>\n      <th>Request Method:</th>\n      <td>POST</td>\n
+    \   </tr>\n    <tr>\n      <th>Request URL:</th>\n      <td>https://api-makemetechie.herokuapp.com/api/</td>\n
+    \   </tr>\n\n    <tr>\n      <th>Django Version:</th>\n      <td>3.2.5</td>\n
+    \   </tr>\n\n    <tr>\n      <th>Exception Type:</th>\n      <td>LookupError</td>\n
+    \   </tr>\n\n\n    <tr>\n      <th>Exception Value:</th>\n      <td><pre>\n**********************************************************************\n
+    \ Resource \e[93mpunkt\e[0m not found.\n  Please use the NLTK Downloader to obtain
+    the resource:\n\n  \e[31m&gt;&gt;&gt; import nltk\n  &gt;&gt;&gt; nltk.download(&#x27;punkt&#x27;)\n
+    \ \e[0m\n  For more information see: https://www.nltk.org/data.html\n\n  Attempted
+    to load \e[93mtokenizers/punkt/PY3/english.pickle\e[0m\n\n  Searched in:\n    -
+    &#x27;/app/nltk_data&#x27;\n    - &#x27;/app/.heroku/python/nltk_data&#x27;\n
+    \   - &#x27;/app/.heroku/python/share/nltk_data&#x27;\n    - &#x27;/app/.heroku/python/lib/nltk_data&#x27;\n
+    \   - &#x27;/usr/share/nltk_data&#x27;\n    - &#x27;/usr/local/share/nltk_data&#x27;\n
+    \   - &#x27;/usr/lib/nltk_data&#x27;\n    - &#x27;/usr/local/lib/nltk_data&#x27;\n
+    \   - &#x27;&#x27;\n**********************************************************************\n</pre></td>\n
+    \   </tr>\n\n\n    <tr>\n      <th>Exception Location:</th>\n      <td><span class=\"fname\">/app/.heroku/python/lib/python3.9/site-packages/nltk/data.py</span>,
+    line 583, in find</td>\n    </tr>\n\n    <tr>\n      <th>Python Executable:</th>\n
+    \     <td>/app/.heroku/python/bin/python</td>\n    </tr>\n    <tr>\n      <th>Python
+    Version:</th>\n      <td>3.9.6</td>\n    </tr>\n    <tr>\n      <th>Python Path:</th>\n
+    \     <td><pre>[&#x27;/app/.heroku/python/bin&#x27;,\n &#x27;/app&#x27;,\n &#x27;/app/.heroku/python/lib/python39.zip&#x27;,\n
+    &#x27;/app/.heroku/python/lib/python3.9&#x27;,\n &#x27;/app/.heroku/python/lib/python3.9/lib-dynload&#x27;,\n
+    &#x27;/app/.heroku/python/lib/python3.9/site-packages&#x27;]</pre></td>\n    </tr>\n
+    \   <tr>\n      <th>Server time:</th>\n      <td>Tue, 27 Jul 2021 06:37:41 +0000</td>\n
+    \   </tr>\n  </table>\n</div>\n\n\n\n\n<div id=\"traceback\">\n  <h2>Traceback
+    <span class=\"commands\"><a href=\"#\" onclick=\"return switchPastebinFriendly(this);\">\n
+    \   Switch to copy-and-paste view</a></span>\n  </h2>\n  <div id=\"browserTraceback\">\n
+    \   <ul class=\"traceback\">\n      \n        \n        <li class=\"frame django\">\n
+    \         \n            <code class=\"fname\">/app/.heroku/python/lib/python3.9/site-packages/django/core/handlers/exception.py</code>,
+    line 47, in inner\n          \n\n          \n            <div class=\"context\"
+    id=\"c140708808576320\">\n              \n                <ol start=\"40\" class=\"pre-context\"
+    id=\"pre140708808576320\">\n                \n                  <li onclick=\"toggle('pre140708808576320',
+    'post140708808576320')\"><pre>                response = await sync_to_async(response_for_exception,
+    thread_sensitive=False)(request, exc)</pre></li>\n                \n                  <li
+    onclick=\"toggle('pre140708808576320', 'post140708808576320')\"><pre>            return
+    response</pre></li>\n                \n                  <li onclick=\"toggle('pre140708808576320',
+    'post140708808576320')\"><pre>        return inner</pre></li>\n                \n
+    \                 <li onclick=\"toggle('pre140708808576320', 'post140708808576320')\"><pre>
+    \   else:</pre></li>\n                \n                  <li onclick=\"toggle('pre140708808576320',
+    'post140708808576320')\"><pre>        @wraps(get_response)</pre></li>\n                \n
+    \                 <li onclick=\"toggle('pre140708808576320', 'post140708808576320')\"><pre>
+    \       def inner(request):</pre></li>\n                \n                  <li
+    onclick=\"toggle('pre140708808576320', 'post140708808576320')\"><pre>            try:</pre></li>\n
+    \               \n                </ol>\n              \n              <ol start=\"47\"
+    class=\"context-line\">\n                <li onclick=\"toggle('pre140708808576320',
+    'post140708808576320')\"><pre>                response = get_response(request)</pre>
+    <span></span></li>\n              </ol>\n              \n                <ol start='48'
+    class=\"post-context\" id=\"post140708808576320\">\n                  \n                  <li
+    onclick=\"toggle('pre140708808576320', 'post140708808576320')\"><pre>            except
+    Exception as exc:</pre></li>\n                  \n                  <li onclick=\"toggle('pre140708808576320',
+    'post140708808576320')\"><pre>                response = response_for_exception(request,
+    exc)</pre></li>\n                  \n                  <li onclick=\"toggle('pre140708808576320',
+    'post140708808576320')\"><pre>            return response</pre></li>\n                  \n
+    \                 <li onclick=\"toggle('pre140708808576320', 'post140708808576320')\"><pre>
+    \       return inner</pre></li>\n                  \n                  <li onclick=\"toggle('pre140708808576320',
+    'post140708808576320')\"><pre></pre></li>\n                  \n                  <li
+    onclick=\"toggle('pre140708808576320', 'post140708808576320')\"><pre></pre></li>\n
+    \                 \n              </ol>\n              \n            </div>\n
+    \         \n\n          \n            <div class=\"commands\">\n                \n
+    \                   <a href=\"#\" onclick=\"return varToggle(this, '140708808576320')\"><span>&#x25b6;</span>
+    Local vars</a>\n                \n            </div>\n            <table class=\"vars\"
+    id=\"v140708808576320\">\n              <thead>\n                <tr>\n                  <th>Variable</th>\n
+    \                 <th>Value</th>\n                </tr>\n              </thead>\n
+    \             <tbody>\n                \n                  <tr>\n                    <td>exc</td>\n
+    \                   <td class=\"code\"><pre>LookupError(&quot;\\n**********************************************************************\\n
+    \ Resource \\x1b[93mpunkt\\x1b[0m not found.\\n  Please use the NLTK Downloader
+    to obtain the resource:\\n\\n  \\x1b[31m&gt;&gt;&gt; import nltk\\n  &gt;&gt;&gt;
+    nltk.download(&#x27;punkt&#x27;)\\n  \\x1b[0m\\n  For more information see: https://www.nltk.org/data.html\\n\\n
+    \ Attempted to load \\x1b[93mtokenizers/punkt/PY3/english.pickle\\x1b[0m\\n\\n
+    \ Searched in:\\n    - &#x27;/app/nltk_data&#x27;\\n    - &#x27;/app/.heroku/python/nltk_data&#x27;\\n
+    \   - &#x27;/app/.heroku/python/share/nltk_data&#x27;\\n    - &#x27;/app/.heroku/python/lib/nltk_data&#x27;\\n
+    \   - &#x27;/usr/share/nltk_data&#x27;\\n    - &#x27;/usr/local/share/nltk_data&#x27;\\n
+    \   - &#x27;/usr/lib/nltk_data&#x27;\\n    - &#x27;/usr/local/lib/nltk_data&#x27;\\n
+    \   - &#x27;&#x27;\\n**********************************************************************\\n&quot;)</pre></td>\n
+    \                 </tr>\n                \n                  <tr>\n                    <td>get_response</td>\n
+    \                   <td class=\"code\"><pre>&lt;bound method BaseHandler._get_response
+    of &lt;django.core.handlers.wsgi.WSGIHandler object at 0x7ff96eca93d0&gt;&gt;</pre></td>\n
+    \                 </tr>\n                \n                  <tr>\n                    <td>request</td>\n
+    \                   <td class=\"code\"><pre>&lt;WSGIRequest: POST &#x27;/api/&#x27;&gt;</pre></td>\n
+    \                 </tr>\n                \n              </tbody>\n            </table>\n
+    \         \n        </li>\n      \n        \n        <li class=\"frame django\">\n
+    \         \n            <code class=\"fname\">/app/.heroku/python/lib/python3.9/site-packages/django/core/handlers/base.py</code>,
+    line 181, in _get_response\n          \n\n          \n            <div class=\"context\"
+    id=\"c140708808576256\">\n              \n                <ol start=\"174\" class=\"pre-context\"
+    id=\"pre140708808576256\">\n                \n                  <li onclick=\"toggle('pre140708808576256',
+    'post140708808576256')\"><pre></pre></li>\n                \n                  <li
+    onclick=\"toggle('pre140708808576256', 'post140708808576256')\"><pre>        if
+    response is None:</pre></li>\n                \n                  <li onclick=\"toggle('pre140708808576256',
+    'post140708808576256')\"><pre>            wrapped_callback = self.make_view_atomic(callback)</pre></li>\n
+    \               \n                  <li onclick=\"toggle('pre140708808576256',
+    'post140708808576256')\"><pre>            # If it is an asynchronous view, run
+    it in a subthread.</pre></li>\n                \n                  <li onclick=\"toggle('pre140708808576256',
+    'post140708808576256')\"><pre>            if asyncio.iscoroutinefunction(wrapped_callback):</pre></li>\n
+    \               \n                  <li onclick=\"toggle('pre140708808576256',
+    'post140708808576256')\"><pre>                wrapped_callback = async_to_sync(wrapped_callback)</pre></li>\n
+    \               \n                  <li onclick=\"toggle('pre140708808576256',
+    'post140708808576256')\"><pre>            try:</pre></li>\n                \n
+    \               </ol>\n              \n              <ol start=\"181\" class=\"context-line\">\n
+    \               <li onclick=\"toggle('pre140708808576256', 'post140708808576256')\"><pre>
+    \               response = wrapped_callback(request, *callback_args, **callback_kwargs)</pre>
+    <span></span></li>\n              </ol>\n              \n                <ol start='182'
+    class=\"post-context\" id=\"post140708808576256\">\n                  \n                  <li
+    onclick=\"toggle('pre140708808576256', 'post140708808576256')\"><pre>            except
+    Exception as e:</pre></li>\n                  \n                  <li onclick=\"toggle('pre140708808576256',
+    'post140708808576256')\"><pre>                response = self.process_exception_by_middleware(e,
+    request)</pre></li>\n                  \n                  <li onclick=\"toggle('pre140708808576256',
+    'post140708808576256')\"><pre>                if response is None:</pre></li>\n
+    \                 \n                  <li onclick=\"toggle('pre140708808576256',
+    'post140708808576256')\"><pre>                    raise</pre></li>\n                  \n
+    \                 <li onclick=\"toggle('pre140708808576256', 'post140708808576256')\"><pre></pre></li>\n
+    \                 \n                  <li onclick=\"toggle('pre140708808576256',
+    'post140708808576256')\"><pre>        # Complain if the view returned None (a
+    common error).</pre></li>\n                  \n              </ol>\n              \n
+    \           </div>\n          \n\n          \n            <div class=\"commands\">\n
+    \               \n                    <a href=\"#\" onclick=\"return varToggle(this,
+    '140708808576256')\"><span>&#x25b6;</span> Local vars</a>\n                \n
+    \           </div>\n            <table class=\"vars\" id=\"v140708808576256\">\n
+    \             <thead>\n                <tr>\n                  <th>Variable</th>\n
+    \                 <th>Value</th>\n                </tr>\n              </thead>\n
+    \             <tbody>\n                \n                  <tr>\n                    <td>callback</td>\n
+    \                   <td class=\"code\"><pre>&lt;function index at 0x7ff9529f4040&gt;</pre></td>\n
+    \                 </tr>\n                \n                  <tr>\n                    <td>callback_args</td>\n
+    \                   <td class=\"code\"><pre>()</pre></td>\n                  </tr>\n
+    \               \n                  <tr>\n                    <td>callback_kwargs</td>\n
+    \                   <td class=\"code\"><pre>{}</pre></td>\n                  </tr>\n
+    \               \n                  <tr>\n                    <td>request</td>\n
+    \                   <td class=\"code\"><pre>&lt;WSGIRequest: POST &#x27;/api/&#x27;&gt;</pre></td>\n
+    \                 </tr>\n                \n                  <tr>\n                    <td>response</td>\n
+    \                   <td class=\"code\"><pre>None</pre></td>\n                  </tr>\n
+    \               \n                  <tr>\n                    <td>self</td>\n
+    \                   <td class=\"code\"><pre>&lt;django.core.handlers.wsgi.WSGIHandler
+    object at 0x7ff96eca93d0&gt;</pre></td>\n                  </tr>\n                \n
+    \                 <tr>\n                    <td>wrapped_callback</td>\n                    <td
+    class=\"code\"><pre>&lt;function index at 0x7ff9529f4040&gt;</pre></td>\n                  </tr>\n
+    \               \n              </tbody>\n            </table>\n          \n        </li>\n
+    \     \n        \n        <li class=\"frame user\">\n          \n            <code
+    class=\"fname\">/app/webBackend/views.py</code>, line 11, in index\n          \n\n
+    \         \n            <div class=\"context\" id=\"c140708808576064\">\n              \n
+    \               <ol start=\"4\" class=\"pre-context\" id=\"pre140708808576064\">\n
+    \               \n                  <li onclick=\"toggle('pre140708808576064',
+    'post140708808576064')\"><pre>from webBackend.nltkOperations import NltkOperations</pre></li>\n
+    \               \n                  <li onclick=\"toggle('pre140708808576064',
+    'post140708808576064')\"><pre></pre></li>\n                \n                  <li
+    onclick=\"toggle('pre140708808576064', 'post140708808576064')\"><pre></pre></li>\n
+    \               \n                  <li onclick=\"toggle('pre140708808576064',
+    'post140708808576064')\"><pre>def index(request):</pre></li>\n                \n
+    \                 <li onclick=\"toggle('pre140708808576064', 'post140708808576064')\"><pre>
+    \   if request.method == &#x27;POST&#x27;:</pre></li>\n                \n                  <li
+    onclick=\"toggle('pre140708808576064', 'post140708808576064')\"><pre>        json_data
+    = json.loads(request.body)</pre></li>\n                \n                  <li
+    onclick=\"toggle('pre140708808576064', 'post140708808576064')\"><pre>        print(json_data[&#x27;url&#x27;])</pre></li>\n
+    \               \n                </ol>\n              \n              <ol start=\"11\"
+    class=\"context-line\">\n                <li onclick=\"toggle('pre140708808576064',
+    'post140708808576064')\"><pre>        return HttpResponse(NltkOperations.get_summary(json_data[&#x27;url&#x27;]))</pre>
+    <span></span></li>\n              </ol>\n              \n                <ol start='12'
+    class=\"post-context\" id=\"post140708808576064\">\n                  \n                  <li
+    onclick=\"toggle('pre140708808576064', 'post140708808576064')\"><pre></pre></li>\n
+    \                 \n                  <li onclick=\"toggle('pre140708808576064',
+    'post140708808576064')\"><pre></pre></li>\n                  \n                  <li
+    onclick=\"toggle('pre140708808576064', 'post140708808576064')\"><pre>def hello(request):</pre></li>\n
+    \                 \n                  <li onclick=\"toggle('pre140708808576064',
+    'post140708808576064')\"><pre>    if request.method == &#x27;POST&#x27;:</pre></li>\n
+    \                 \n                  <li onclick=\"toggle('pre140708808576064',
+    'post140708808576064')\"><pre>        return HttpResponse(request.POST.get(&quot;url&quot;))</pre></li>\n
+    \                 \n                  <li onclick=\"toggle('pre140708808576064',
+    'post140708808576064')\"><pre>    s1 = NltkOperations</pre></li>\n                  \n
+    \             </ol>\n              \n            </div>\n          \n\n          \n
+    \           <div class=\"commands\">\n                \n                    <a
+    href=\"#\" onclick=\"return varToggle(this, '140708808576064')\"><span>&#x25b6;</span>
+    Local vars</a>\n                \n            </div>\n            <table class=\"vars\"
+    id=\"v140708808576064\">\n              <thead>\n                <tr>\n                  <th>Variable</th>\n
+    \                 <th>Value</th>\n                </tr>\n              </thead>\n
+    \             <tbody>\n                \n                  <tr>\n                    <td>json_data</td>\n
+    \                   <td class=\"code\"><pre>{&#x27;url&#x27;: &#x27;https://www.engadget.com/lucasfilm-hires-shamook-054904077.html&#x27;}</pre></td>\n
+    \                 </tr>\n                \n                  <tr>\n                    <td>request</td>\n
+    \                   <td class=\"code\"><pre>&lt;WSGIRequest: POST &#x27;/api/&#x27;&gt;</pre></td>\n
+    \                 </tr>\n                \n              </tbody>\n            </table>\n
+    \         \n        </li>\n      \n        \n        <li class=\"frame user\">\n
+    \         \n            <code class=\"fname\">/app/webBackend/nltkOperations.py</code>,
+    line 42, in get_summary\n          \n\n          \n            <div class=\"context\"
+    id=\"c140708808576192\">\n              \n                <ol start=\"35\" class=\"pre-context\"
+    id=\"pre140708808576192\">\n                \n                  <li onclick=\"toggle('pre140708808576192',
+    'post140708808576192')\"><pre>            article_text += p.text</pre></li>\n
+    \               \n                  <li onclick=\"toggle('pre140708808576192',
+    'post140708808576192')\"><pre>        # Removing Square Brackets and Extra Spaces</pre></li>\n
+    \               \n                  <li onclick=\"toggle('pre140708808576192',
+    'post140708808576192')\"><pre>        article_text = re.sub(r&#x27;\\[[0-9]*\\]&#x27;,
+    &#x27; &#x27;, article_text)</pre></li>\n                \n                  <li
+    onclick=\"toggle('pre140708808576192', 'post140708808576192')\"><pre>        article_text
+    = re.sub(r&#x27;\\s+&#x27;, &#x27; &#x27;, article_text)</pre></li>\n                \n
+    \                 <li onclick=\"toggle('pre140708808576192', 'post140708808576192')\"><pre>
+    \       # Removing special characters and digits</pre></li>\n                \n
+    \                 <li onclick=\"toggle('pre140708808576192', 'post140708808576192')\"><pre>
+    \       formatted_article_text = re.sub(&#x27;[^a-zA-Z]&#x27;, &#x27; &#x27;,
+    article_text)</pre></li>\n                \n                  <li onclick=\"toggle('pre140708808576192',
+    'post140708808576192')\"><pre>        formatted_article_text = re.sub(r&#x27;\\s+&#x27;,
+    &#x27; &#x27;, formatted_article_text)</pre></li>\n                \n                </ol>\n
+    \             \n              <ol start=\"42\" class=\"context-line\">\n                <li
+    onclick=\"toggle('pre140708808576192', 'post140708808576192')\"><pre>        sentence_list
+    = nltk.sent_tokenize(article_text)</pre> <span></span></li>\n              </ol>\n
+    \             \n                <ol start='43' class=\"post-context\" id=\"post140708808576192\">\n
+    \                 \n                  <li onclick=\"toggle('pre140708808576192',
+    'post140708808576192')\"><pre>        stopwords = nltk.corpus.stopwords.words(&#x27;english&#x27;)</pre></li>\n
+    \                 \n                  <li onclick=\"toggle('pre140708808576192',
+    'post140708808576192')\"><pre></pre></li>\n                  \n                  <li
+    onclick=\"toggle('pre140708808576192', 'post140708808576192')\"><pre>        word_frequencies
+    = {}</pre></li>\n                  \n                  <li onclick=\"toggle('pre140708808576192',
+    'post140708808576192')\"><pre>        for word in nltk.word_tokenize(formatted_article_text):</pre></li>\n
+    \                 \n                  <li onclick=\"toggle('pre140708808576192',
+    'post140708808576192')\"><pre>            if word not in stopwords:</pre></li>\n
+    \                 \n                  <li onclick=\"toggle('pre140708808576192',
+    'post140708808576192')\"><pre>                if word not in word_frequencies.keys():</pre></li>\n
+    \                 \n              </ol>\n              \n            </div>\n
+    \         \n\n          \n            <div class=\"commands\">\n                \n
+    \                   <a href=\"#\" onclick=\"return varToggle(this, '140708808576192')\"><span>&#x25b6;</span>
+    Local vars</a>\n                \n            </div>\n            <table class=\"vars\"
+    id=\"v140708808576192\">\n              <thead>\n                <tr>\n                  <th>Variable</th>\n
+    \                 <th>Value</th>\n                </tr>\n              </thead>\n
+    \             <tbody>\n                \n                  <tr>\n                    <td>article</td>\n
+    \                   <td class=\"code\"><pre>(b&#x27;&lt;!doctype html&gt;&lt;html
+    id=&quot;atomic&quot; class=&quot;desktop bkt ua-undefined ua-undefine&#x27;\n
+    b&#x27;d&quot; lang=&quot;en-US&quot;&gt;&lt;head&gt;&lt;script&gt;\\n        window.performance.mark(\\&#x27;PageStar&#x27;\n
+    b&quot;t&#x27;);\\n        document.documentElement.className += &#x27; JsEnabled
+    jsenabled&quot;\n b&quot;&#x27;;\\n        &lt;/script&gt;&lt;title&gt;Lucasfilm
+    hires YouTuber who used deepfake to&quot;\n b&#x27; improve \\&#x27;The Mandalorian\\&#x27;
+    | Engadget&lt;/title&gt;&lt;meta http-equiv=&quot;content-t&#x27;\n b&#x27;ype&quot;
+    content=&quot;text/html; charset=utf-8&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot;
+    cont&#x27;\n b&#x27;ent=&quot;text/html, charset=utf-8&quot;&gt;&lt;meta http-equiv=&quot;x-dns-prefetch-control&quot;
+    con&#x27;\n b&#x27;tent=&quot;on&quot;&gt;&lt;meta http-equiv=&quot;X-UA-Compatible&quot;
+    content=&quot;chrome=1&quot;&gt;&lt;meta name=&quot;&#x27;\n b&#x27;description&quot;
+    content=&quot;Lucasfilm hires YouTuber who uses deepfake to fix bad &#x27;\n b&#x27;CGI..&quot;&gt;&lt;meta
+    property=&quot;og:description&quot; content=&quot;Lucasfilm hires YouTuber who&#x27;\n
+    b&#x27; uses deepfake to fix bad CGI..&quot;&gt;&lt;meta property=&quot;og:image&quot;
+    content=&quot;https://&#x27;\n b&#x27;s.yimg.com/os/creatr-uploaded-images/2021-07/e0114640-ee8d-11eb-bf75-08177b7&#x27;\n
+    b&#x27;ff823&quot;&gt;&lt;meta property=&quot;og:url&quot; content=&quot;https://www.engadget.com/lucasfilm-h&#x27;\n
+    b&#x27;ires-shamook-054904077.html&quot;&gt;&lt;meta name=&quot;twitter:image&quot;
+    content=&quot;https://s.y&#x27;\n b&#x27;img.com/os/creatr-uploaded-images/2021-07/e0114640-ee8d-11eb-bf75-08177b7ff8&#x27;\n
+    b&#x27;23&quot;&gt;&lt;meta name=&quot;twitter:title&quot; content=&quot;Lucasfilm
+    hires YouTuber who used de&#x27;\n b&#x27;epfake to improve \\&#x27;The Mandalorian\\&#x27;
+    | Engadget&quot;&gt;&lt;meta property=&quot;og:title&#x27;\n b&#x27;&quot; content=&quot;Lucasfilm
+    hires YouTuber who used deepfake to improve \\&#x27;The Ma&#x27;\n b&#x27;ndalorian\\&#x27;
+    | Engadget&quot;&gt;&lt;meta name=&quot;oath:guce:consent-host&quot; content=&quot;guce&#x27;\n
+    b&#x27;.engadget.com&quot;&gt;&lt;meta property=&quot;og:type&quot; content=&quot;website&quot;&gt;&lt;script
+    type=&quot;text&#x27;\n b&#x27;/javascript&quot; &gt;var AdsServicePosition =
+    {}; var AdsClientPosition = {}; var J&#x27;\n b&#x27;acCallbacks = {};&lt;/script&gt;&lt;script
+    type=&quot;text/javascript&quot; &gt;var uacCallbacks =&#x27;\n b&#x27; {};&lt;/script&gt;&lt;meta
+    name=&quot;viewport&quot; content=&quot;width=device-width,initial-scale&#x27;\n
+    b&#x27;=1,minimum-scale=1&quot;&gt;&lt;meta http-equiv=&quot;content-type&quot;
+    content=&quot;text/html; char&#x27;\n b&#x27;set=utf-8&quot; /&gt;&lt;meta name=&quot;google-site-verification&quot;
+    content=&quot;wLXjbTY6pixubu5b&#x27;\n b&#x27;TDip5LFbmV3y14B-1FuGRBA608U&quot;
+    /&gt;&lt;meta name=&quot;google-site-verification&quot; content&#x27;\n b&#x27;=&quot;tWejEOjeALosEomCYTYn5Ps9e_bfdSDFep3l5tdwP30&quot;
+    /&gt;&lt;meta name=&quot;google-site-ver&#x27;\n b&#x27;ification&quot; content=&quot;1GwTnKM_I1dlzvY6ZgkdMD7npjzC-zbHHs9BXlA8BrI&quot;
+    /&gt;&lt;meta nam&#x27;\n b&#x27;e=&quot;google-site-verification&quot; content=&quot;2AxZaoCWIVXn4j_PSZpxB_gj8X9Y2rfzSyOtPX&#x27;\n
+    b&#x27;O_wEI&quot; /&gt;&lt;meta name=&quot;google-site-verification&quot; content=&quot;WHAdu9KkehGzlorxbvJ2&#x27;\n
+    b&#x27;y_5amqxc3cg7tkZPOq5kfHE&quot; /&gt;&lt;meta name=&quot;google-site-verification&quot;
+    content=&quot;xX&#x27;\n b&#x27;3g98CIOMeGJbk03PNHNS-NQMGfB0LonZXXvhFfBlc&quot;
+    /&gt;&lt;meta name=&quot;google-site-verific&#x27;\n b&#x27;ation&quot; content=&quot;xd57-NQw8NoYtNTyi0qomvWufyqOYmCYgM2K2Y8hNrE&quot;
+    /&gt;&lt;meta name=&quot;b&#x27;\n b&#x27;itly-verification&quot; content=&quot;f57da7265213&quot;
+    /&gt;&lt;meta name=&quot;p:domain_verify&quot; con&#x27;\n b&#x27;tent=&quot;fb69533f2acad78bdd89abf093c35a28&quot;
+    /&gt;&lt;meta name=&quot;msvalidate.01&quot; content&#x27;\n b&#x27;=&quot;5ABD8A078F3356F3A6A8C8643C31FB8F&quot;
+    /&gt;&lt;meta name=&quot;apple-mobile-web-app-statu&#x27;\n b&#x27;s-bar-style&quot;
+    content=&quot;black&quot; /&gt;&lt;meta name=&quot;application-name&quot; content=&quot;Engadg&#x27;\n
+    b&#x27;et&quot; /&gt;&lt;meta property=&quot;fb:pages&quot; content=&quot;5738237369&quot;
+    /&gt;&lt;meta property=&quot;fb:ad&#x27;\n b&#x27;mins&quot; content=&quot;11710688&quot;
+    /&gt;&lt;meta property=&quot;fb:app_id&quot; content=&quot;4648641070465&#x27;\n
+    b&#x27;84&quot; /&gt;&lt;meta property=&quot;og:locale&quot; content=&quot;en_US&quot;
+    /&gt;&lt;meta property=&quot;og:site_n&#x27;\n b&#x27;ame&quot; content=&quot;Engadget&quot;
+    /&gt;&lt;meta name=&quot;twitter:site&quot; content=`Engadget`&gt;&lt;meta&#x27;\n
+    b&#x27; name=&quot;msapplication-TileColor&quot; content=&quot;#2B2D32&quot;/&gt;&lt;meta
+    name=&quot;msapplication&#x27;\n b&#x27;-TileImage&quot; content=&quot;https://s.yimg.com/kw/assets/eng-e-558.png&quot;/&gt;&lt;meta
+    name&#x27;\n b&#x27;=&quot;msapplication-square70x70logo&quot; content=&quot;https://s.yimg.com/kw/assets/eng-e&#x27;\n
+    b&#x27;-128.png&quot;/&gt;&lt;meta name=&quot;msapplication-square150x150logo&quot;
+    content=&quot;https://s.y&#x27;\n b&#x27;img.com/kw/assets/eng-e-270.png&quot;/&gt;&lt;meta
+    name=&quot;msapplication-wide310x150logo&quot;&#x27;\n b&#x27; content=&quot;https://s.yimg.com/kw/assets/eng-e-558x270.png&quot;/&gt;&lt;meta
+    name=&quot;msapp&#x27;\n b&#x27;lication-square310x310logo&quot; content=&quot;https://s.yimg.com/kw/assets/images/eng&#x27;\n
+    b&#x27;-e-558.png&quot;/&gt;&lt;meta name=&quot;msapplication-notification&quot;
+    content=&quot;frequency=30;p&#x27;\n b&#x27;olling-uri=https://notifications.buildmypinnedsite.com/?feed=https://www.eng&#x27;\n
+    b&#x27;adget.com/rss.xml&amp;amp;id=1;polling-uri2=https://notifications &lt;trimmed
+    107912 bytes string&gt;</pre></td>\n                  </tr>\n                \n
+    \                 <tr>\n                    <td>article_text</td>\n                    <td
+    class=\"code\"><pre>(&quot;Luke Skywalker&#x27;s CGI face in the character&#x27;s
+    The Mandalorian cameo was met &quot;\n &#x27;with a lot of criticism, and fans
+    even tried to fix the scene with various &#x27;\n &#x27;tools and programs. One
+    of those fans did so well, Lucasfilm has hired him &#x27;\n &quot;to help it ensure
+    its upcoming projects won&#x27;t feature underwhelming de-aging &quot;\n &#x27;and
+    facial visual effects. That fan is a YouTuber known as Shamook, who uses &#x27;\n
+    &#x27;deepfake technology to improve upon bad CG effects and to put actors in
+    &#x27;\n &#x27;shows and movies they never starred in. In the comments section
+    of a video &#x27;\n &#x27;that replaces Christian Bale with Robert Pattinson as
+    the Batman in &#x27;\n &quot;Christopher Nolan&#x27;s film, Shamook wrote that
+    he joined Lucasfilm/Industrial &quot;\n &#x27;Light &amp; Magic (ILM) a few months
+    ago. When asked what his role within the &#x27;\n &#x27;company is, he said his
+    official title is &quot;Senior Facial Capture Artist.&quot; &#x27;\n &#x27;The
+    studio has confirmed the hire with IndieWire, telling the publication &#x27;\n
+    &quot;that it&#x27;s always on the lookout for talented artists. A representative
+    said &quot;\n &#x27;in a statement:&quot;Over the past several years ILM has been
+    investing in both &#x27;\n &#x27;machine learning and A.I. as a means to produce
+    compelling visual effects &#x27;\n &#x27;work and its been terrific to see momentum
+    building in this space as the &#x27;\n &#x27;technology advances.&quot;In addition
+    to working on a deepfake version of Luke in &#x27;\n &quot;The Mandalorian, he
+    also deepfaked Tarkin&#x27;s and Leia&#x27;s appearances in Rogue &quot;\n &quot;One.
+    Shamook&#x27;s videos don&#x27;t always show the most realistic results, but the
+    &quot;\n &quot;great ones like Luke&#x27;s truly look impressive. Lucasfilm could
+    his technical &quot;\n &quot;know-how to make sure de-aged characters and CG faces
+    won&#x27;t take us straight &quot;\n &#x27;to uncanny valley anymore. Please enter
+    a valid email address&#x27;)</pre></td>\n                  </tr>\n                \n
+    \                 <tr>\n                    <td>formatted_article_text</td>\n
+    \                   <td class=\"code\"><pre>(&#x27;Luke Skywalker s CGI face in
+    the character s The Mandalorian cameo was met &#x27;\n &#x27;with a lot of criticism
+    and fans even tried to fix the scene with various &#x27;\n &#x27;tools and programs
+    One of those fans did so well Lucasfilm has hired him to &#x27;\n &#x27;help it
+    ensure its upcoming projects won t feature underwhelming de aging &#x27;\n &#x27;and
+    facial visual effects That fan is a YouTuber known as Shamook who uses &#x27;\n
+    &#x27;deepfake technology to improve upon bad CG effects and to put actors in
+    &#x27;\n &#x27;shows and movies they never starred in In the comments section
+    of a video &#x27;\n &#x27;that replaces Christian Bale with Robert Pattinson as
+    the Batman in &#x27;\n &#x27;Christopher Nolan s film Shamook wrote that he joined
+    Lucasfilm Industrial &#x27;\n &#x27;Light Magic ILM a few months ago When asked
+    what his role within the company &#x27;\n &#x27;is he said his official title
+    is Senior Facial Capture Artist The studio has &#x27;\n &#x27;confirmed the hire
+    with IndieWire telling the publication that it s always &#x27;\n &#x27;on the
+    lookout for talented artists A representative said in a statement &#x27;\n &#x27;Over
+    the past several years ILM has been investing in both machine learning &#x27;\n
+    &#x27;and A I as a means to produce compelling visual effects work and it s been
+    &#x27;\n &#x27;terrific to see momentum building in this space as the technology
+    advances &#x27;\n &#x27;In addition to working on a deepfake version of Luke in
+    The Mandalorian he &#x27;\n &#x27;also deepfaked Tarkin s and Leia s appearances
+    in Rogue One Shamook s videos &#x27;\n &#x27;don t always show the most realistic
+    results but the great ones like Luke s &#x27;\n &#x27;truly look impressive Lucasfilm
+    could his technical know how to make sure de &#x27;\n &#x27;aged characters and
+    CG faces won t take us straight to uncanny valley &#x27;\n &#x27;anymore Please
+    enter a valid email address&#x27;)</pre></td>\n                  </tr>\n                \n
+    \                 <tr>\n                    <td>p</td>\n                    <td
+    class=\"code\"><pre>&lt;p class=&quot;Pos(a) M(0) T(60px) Start(6px) D(n) C(errorColor)&quot;
+    role=&quot;alert&quot;&gt;Please enter a valid email address&lt;/p&gt;</pre></td>\n
+    \                 </tr>\n                \n                  <tr>\n                    <td>paragraphs</td>\n
+    \                   <td class=\"code\"><pre>[&lt;p&gt;Luke Skywalker&#x27;s CGI
+    face in the character&#x27;s &lt;a data-ylk=&quot;elm:context_link;itc:0&quot;
+    href=&quot;https://www.engadget.com/the-mandalorian-season-two-finale-disney-star-wars-154405456.html&quot;&gt;&lt;em&gt;The
+    Mandalorian&lt;/em&gt;&lt;/a&gt; cameo was met with a lot of criticism, and fans
+    even tried to fix the scene with various tools and programs. One of those fans
+    did so well, Lucasfilm has &lt;a data-ylk=&quot;elm:context_link;itc:0&quot; href=&quot;https://www.cnet.com/news/lucasfilm-hires-deepfake-youtuber-who-fixed-the-mandalorian/#ftag=CAD590a51e&quot;
+    target=&quot;_blank&quot;&gt;hired&lt;/a&gt; him to help it ensure its upcoming
+    projects won&#x27;t feature underwhelming de-aging and facial visual effects.
+    That fan is a YouTuber known as Shamook, who uses deepfake technology to improve
+    upon bad CG effects and to put actors in shows and movies they never starred in.&lt;/p&gt;,\n
+    &lt;p&gt;In the comments section of a video that replaces Christian Bale with
+    Robert Pattinson as the Batman in Christopher Nolan&#x27;s film, Shamook &lt;a
+    data-ylk=&quot;elm:context_link;itc:0&quot; href=&quot;https://www.youtube.com/watch?v=dmuYz0aZGgU&amp;amp;lc=UgwIZs7NpWc0EdjFK_x4AaABAg&quot;
+    target=&quot;_blank&quot;&gt;wrote&lt;/a&gt; that he joined Lucasfilm/Industrial
+    Light &amp;amp; Magic (ILM) a few months ago. When asked what his role within
+    the company is, he said his official title is &quot;Senior Facial Capture Artist.&quot;
+    The studio has confirmed the hire with &lt;a data-ylk=&quot;elm:context_link;itc:0&quot;
+    href=&quot;https://www.indiewire.com/2021/07/lucasfilm-hires-deepfake-youtuber-mandalorian-skywalker-vfx-1234653720/&quot;
+    target=&quot;_blank&quot;&gt;&lt;em&gt;IndieWire&lt;/em&gt;&lt;/a&gt;, telling
+    the publication that it&#x27;s always on the lookout for talented artists. A representative
+    said in a statement:&lt;/p&gt;,\n &lt;p&gt;&quot;Over the past several years ILM
+    has been investing in both machine learning and A.I. as a means to produce compelling
+    visual effects work and its been terrific to see momentum building in this space
+    as the technology advances.&quot;&lt;/p&gt;,\n &lt;p&gt;In addition to working
+    on a deepfake version of Luke in &lt;em&gt;The Mandalorian&lt;/em&gt;, he also
+    &lt;a data-ylk=&quot;elm:context_link;itc:0&quot; href=&quot;https://www.youtube.com/watch?v=_CXMb_MO3aw&quot;
+    target=&quot;_blank&quot;&gt;deepfaked&lt;/a&gt; Tarkin&#x27;s and Leia&#x27;s
+    appearances in &lt;em&gt;Rogue One&lt;/em&gt;. Shamook&#x27;s videos don&#x27;t
+    always show the most realistic results, but the great ones like Luke&#x27;s truly
+    look impressive. Lucasfilm could his technical know-how to make sure de-aged characters
+    and CG faces won&#x27;t take us straight to uncanny valley anymore.&lt;/p&gt;,\n
+    &lt;p class=&quot;Pos(a) M(0) T(60px) Start(6px) D(n) C(errorColor)&quot; role=&quot;alert&quot;&gt;Please
+    enter a valid email address&lt;/p&gt;]</pre></td>\n                  </tr>\n                \n
+    \                 <tr>\n                    <td>parsed_article</td>\n                    <td
+    class=\"code\"><pre>&lt;!DOCTYPE html&gt;\n&lt;html class=&quot;desktop bkt ua-undefined
+    ua-undefined&quot; id=&quot;atomic&quot; lang=&quot;en-US&quot;&gt;&lt;head&gt;&lt;script&gt;\n
+    \       window.performance.mark(&#x27;PageStart&#x27;);\n        document.documentElement.className
+    += &#x27; JsEnabled jsenabled&#x27;;\n        &lt;/script&gt;&lt;title&gt;Lucasfilm
+    hires YouTuber who used deepfake to improve &#x27;The Mandalorian&#x27; | Engadget&lt;/title&gt;&lt;meta
+    content=&quot;text/html; charset=utf-8&quot; http-equiv=&quot;content-type&quot;/&gt;&lt;meta
+    content=&quot;text/html, charset=utf-8&quot; http-equiv=&quot;content-type&quot;/&gt;&lt;meta
+    content=&quot;on&quot; http-equiv=&quot;x-dns-prefetch-control&quot;/&gt;&lt;meta
+    content=&quot;chrome=1&quot; http-equiv=&quot;X-UA-Compatible&quot;/&gt;&lt;meta
+    content=&quot;Lucasfilm hires YouTuber who uses deepfake to fix bad CGI..&quot;
+    name=&quot;description&quot;/&gt;&lt;meta content=&quot;Lucasfilm hires YouTuber
+    who uses deepfake to fix bad CGI..&quot; property=&quot;og:description&quot;/&gt;&lt;meta
+    content=&quot;https://s.yimg.com/os/creatr-uploaded-images/2021-07/e0114640-ee8d-11eb-bf75-08177b7ff823&quot;
+    property=&quot;og:image&quot;/&gt;&lt;meta content=&quot;https://www.engadget.com/lucasfilm-hires-shamook-054904077.html&quot;
+    property=&quot;og:url&quot;/&gt;&lt;meta content=&quot;https://s.yimg.com/os/creatr-uploaded-images/2021-07/e0114640-ee8d-11eb-bf75-08177b7ff823&quot;
+    name=&quot;twitter:image&quot;/&gt;&lt;meta content=&quot;Lucasfilm hires YouTuber
+    who used deepfake to improve &#x27;The Mandalorian&#x27; | Engadget&quot; name=&quot;twitter:title&quot;/&gt;&lt;meta
+    content=&quot;Lucasfilm hires YouTuber who used deepfake to improve &#x27;The
+    Mandalorian&#x27; | Engadget&quot; property=&quot;og:title&quot;/&gt;&lt;meta
+    content=&quot;guce.engadget.com&quot; name=&quot;oath:guce:consent-host&quot;/&gt;&lt;meta
+    content=&quot;website&quot; property=&quot;og:type&quot;/&gt;&lt;script type=&quot;text/javascript&quot;&gt;var
+    AdsServicePosition = {}; var AdsClientPosition = {}; var JacCallbacks = {};&lt;/script&gt;&lt;script
+    type=&quot;text/javascript&quot;&gt;var uacCallbacks = {};&lt;/script&gt;&lt;meta
+    content=&quot;width=device-width,initial-scale=1,minimum-scale=1&quot; name=&quot;viewport&quot;/&gt;&lt;meta
+    content=&quot;text/html; charset=utf-8&quot; http-equiv=&quot;content-type&quot;/&gt;&lt;meta
+    content=&quot;wLXjbTY6pixubu5bTDip5LFbmV3y14B-1FuGRBA608U&quot; name=&quot;google-site-verification&quot;/&gt;&lt;meta
+    content=&quot;tWejEOjeALosEomCYTYn5Ps9e_bfdSDFep3l5tdwP30&quot; name=&quot;google-site-verification&quot;/&gt;&lt;meta
+    content=&quot;1GwTnKM_I1dlzvY6ZgkdMD7npjzC-zbHHs9BXlA8BrI&quot; name=&quot;google-site-verification&quot;/&gt;&lt;meta
+    content=&quot;2AxZaoCWIVXn4j_PSZpxB_gj8X9Y2rfzSyOtPXO_wEI&quot; name=&quot;google-site-verification&quot;/&gt;&lt;meta
+    content=&quot;WHAdu9KkehGzlorxbvJ2y_5amqxc3cg7tkZPOq5kfHE&quot; name=&quot;google-site-verification&quot;/&gt;&lt;meta
+    content=&quot;xX3g98CIOMeGJbk03PNHNS-NQMGfB0LonZXXvhFfBlc&quot; name=&quot;google-site-verification&quot;/&gt;&lt;meta
+    content=&quot;xd57-NQw8NoYtNTyi0qomvWufyqOYmCYgM2K2Y8hNrE&quot; name=&quot;google-site-verification&quot;/&gt;&lt;meta
+    content=&quot;f57da7265213&quot; name=&quot;bitly-verification&quot;/&gt;&lt;meta
+    content=&quot;fb69533f2acad78bdd89abf093c35a28&quot; name=&quot;p:domain_verify&quot;/&gt;&lt;meta
+    content=&quot;5ABD8A078F3356F3A6A8C8643C31FB8F&quot; name=&quot;msvalidate.01&quot;/&gt;&lt;meta
+    content=&quot;black&quot; name=&quot;apple-mobile-web-app-status-bar-style&quot;/&gt;&lt;meta
+    content=&quot;Engadget&quot; name=&quot;application-name&quot;/&gt;&lt;meta content=&quot;5738237369&quot;
+    property=&quot;fb:pages&quot;/&gt;&lt;meta content=&quot;11710688&quot; property=&quot;fb:admins&quot;/&gt;&lt;meta
+    content=&quot;464864107046584&quot; property=&quot;fb:app_id&quot;/&gt;&lt;meta
+    content=&quot;en_US&quot; property=&quot;og:locale&quot;/&gt;&lt;meta content=&quot;Engadget&quot;
+    property=&quot;og:site_name&quot;/&gt;&lt;meta content=&quot;`Engadget`&quot;
+    name=&quot;twitter:site&quot;/&gt;&lt;meta content=&quot;#2B2D32&quot; name=&quot;msapplication-TileColor&quot;/&gt;&lt;meta
+    content=&quot;https://s.yimg.com/kw/assets/eng-e-558.png&quot; name=&quot;msapplication-TileImage&quot;/&gt;&lt;meta
+    content=&quot;https://s.yimg.com/kw/assets/eng-e-128.png&quot; name=&quot;msapplication-square70x70logo&quot;/&gt;&lt;meta
+    content=&quot;https://s.yimg.com/kw/assets/eng-e-270.png&quot; name=&quot;msapplication-square150x150logo&quot;/&gt;&lt;meta
+    content=&quot;https://s.yimg.com/kw/assets/eng-e-558x270.png&quot; name=&quot;msapplication-wide310x150logo&quot;/&gt;&lt;meta
+    content=&quot;https://s.yimg.com/kw/assets/images/eng-e-558.png&quot; name=&quot;msapplication-square310x310logo&quot;/&gt;&lt;meta
+    content=&quot;frequency=30;polling-uri=https://notifications.buildmypinnedsite.com/?feed=https://www.engadget.com/rss.xml&amp;amp;id=1;polling-uri2=https://notifications.buildmypinnedsite.com/?feed=https://www.engadget.com/rss.xml&amp;amp;id=2;polling-uri3=https://notifications.buildmypinnedsite.com/?feed=https://www.engadget.com/rss.xml&amp;amp;id=3;polling-uri4=https://notifications.buildmypinnedsite.com/?feed=https://www.engadget.com/rss.xml&amp;amp;id=4;polling-uri5=https
+    &lt;trimmed 100263 bytes string&gt;</pre></td>\n                  </tr>\n                \n
+    \                 <tr>\n                    <td>scraped_data</td>\n                    <td
+    class=\"code\"><pre>&lt;http.client.HTTPResponse object at 0x7ff952a1ce50&gt;</pre></td>\n
+    \                 </tr>\n                \n                  <tr>\n                    <td>self</td>\n
+    \                   <td class=\"code\"><pre>&lt;webBackend.nltkOperations.NltkOperations
+    object at 0x7ff96ebeef70&gt;</pre></td>\n                  </tr>\n                \n
+    \                 <tr>\n                    <td>url</td>\n                    <td
+    class=\"code\"><pre>&#x27;https://www.engadget.com/lucasfilm-hires-shamook-054904077.html&#x27;</pre></td>\n
+    \                 </tr>\n                \n              </tbody>\n            </table>\n
+    \         \n        </li>\n      \n        \n        <li class=\"frame user\">\n
+    \         \n            <code class=\"fname\">/app/.heroku/python/lib/python3.9/site-packages/nltk/tokenize/__init__.py</code>,
+    line 107, in sent_tokenize\n          \n\n          \n            <div class=\"context\"
+    id=\"c140708808576128\">\n              \n                <ol start=\"100\" class=\"pre-context\"
+    id=\"pre140708808576128\">\n                \n                  <li onclick=\"toggle('pre140708808576128',
+    'post140708808576128')\"><pre>    using NLTK&#x27;s recommended sentence tokenizer</pre></li>\n
+    \               \n                  <li onclick=\"toggle('pre140708808576128',
+    'post140708808576128')\"><pre>    (currently :class:`.PunktSentenceTokenizer`</pre></li>\n
+    \               \n                  <li onclick=\"toggle('pre140708808576128',
+    'post140708808576128')\"><pre>    for the specified language).</pre></li>\n                \n
+    \                 <li onclick=\"toggle('pre140708808576128', 'post140708808576128')\"><pre></pre></li>\n
+    \               \n                  <li onclick=\"toggle('pre140708808576128',
+    'post140708808576128')\"><pre>    :param text: text to split into sentences</pre></li>\n
+    \               \n                  <li onclick=\"toggle('pre140708808576128',
+    'post140708808576128')\"><pre>    :param language: the model name in the Punkt
+    corpus</pre></li>\n                \n                  <li onclick=\"toggle('pre140708808576128',
+    'post140708808576128')\"><pre>    &quot;&quot;&quot;</pre></li>\n                \n
+    \               </ol>\n              \n              <ol start=\"107\" class=\"context-line\">\n
+    \               <li onclick=\"toggle('pre140708808576128', 'post140708808576128')\"><pre>
+    \   tokenizer = load(&quot;tokenizers/punkt/{0}.pickle&quot;.format(language))</pre>
+    <span></span></li>\n              </ol>\n              \n                <ol start='108'
+    class=\"post-context\" id=\"post140708808576128\">\n                  \n                  <li
+    onclick=\"toggle('pre140708808576128', 'post140708808576128')\"><pre>    return
+    tokenizer.tokenize(text)</pre></li>\n                  \n                  <li
+    onclick=\"toggle('pre140708808576128', 'post140708808576128')\"><pre></pre></li>\n
+    \                 \n                  <li onclick=\"toggle('pre140708808576128',
+    'post140708808576128')\"><pre></pre></li>\n                  \n                  <li
+    onclick=\"toggle('pre140708808576128', 'post140708808576128')\"><pre># Standard
+    word tokenizer.</pre></li>\n                  \n                  <li onclick=\"toggle('pre140708808576128',
+    'post140708808576128')\"><pre>_treebank_word_tokenizer = NLTKWordTokenizer()</pre></li>\n
+    \                 \n                  <li onclick=\"toggle('pre140708808576128',
+    'post140708808576128')\"><pre></pre></li>\n                  \n              </ol>\n
+    \             \n            </div>\n          \n\n          \n            <div
+    class=\"commands\">\n                \n                    <a href=\"#\" onclick=\"return
+    varToggle(this, '140708808576128')\"><span>&#x25b6;</span> Local vars</a>\n                \n
+    \           </div>\n            <table class=\"vars\" id=\"v140708808576128\">\n
+    \             <thead>\n                <tr>\n                  <th>Variable</th>\n
+    \                 <th>Value</th>\n                </tr>\n              </thead>\n
+    \             <tbody>\n                \n                  <tr>\n                    <td>language</td>\n
+    \                   <td class=\"code\"><pre>&#x27;english&#x27;</pre></td>\n                  </tr>\n
+    \               \n                  <tr>\n                    <td>text</td>\n
+    \                   <td class=\"code\"><pre>(&quot;Luke Skywalker&#x27;s CGI face
+    in the character&#x27;s The Mandalorian cameo was met &quot;\n &#x27;with a lot
+    of criticism, and fans even tried to fix the scene with various &#x27;\n &#x27;tools
+    and programs. One of those fans did so well, Lucasfilm has hired him &#x27;\n
+    &quot;to help it ensure its upcoming projects won&#x27;t feature underwhelming
+    de-aging &quot;\n &#x27;and facial visual effects. That fan is a YouTuber known
+    as Shamook, who uses &#x27;\n &#x27;deepfake technology to improve upon bad CG
+    effects and to put actors in &#x27;\n &#x27;shows and movies they never starred
+    in. In the comments section of a video &#x27;\n &#x27;that replaces Christian
+    Bale with Robert Pattinson as the Batman in &#x27;\n &quot;Christopher Nolan&#x27;s
+    film, Shamook wrote that he joined Lucasfilm/Industrial &quot;\n &#x27;Light &amp;
+    Magic (ILM) a few months ago. When asked what his role within the &#x27;\n &#x27;company
+    is, he said his official title is &quot;Senior Facial Capture Artist.&quot; &#x27;\n
+    &#x27;The studio has confirmed the hire with IndieWire, telling the publication
+    &#x27;\n &quot;that it&#x27;s always on the lookout for talented artists. A representative
+    said &quot;\n &#x27;in a statement:&quot;Over the past several years ILM has been
+    investing in both &#x27;\n &#x27;machine learning and A.I. as a means to produce
+    compelling visual effects &#x27;\n &#x27;work and its been terrific to see momentum
+    building in this space as the &#x27;\n &#x27;technology advances.&quot;In addition
+    to working on a deepfake version of Luke in &#x27;\n &quot;The Mandalorian, he
+    also deepfaked Tarkin&#x27;s and Leia&#x27;s appearances in Rogue &quot;\n &quot;One.
+    Shamook&#x27;s videos don&#x27;t always show the most realistic results, but the
+    &quot;\n &quot;great ones like Luke&#x27;s truly look impressive. Lucasfilm could
+    his technical &quot;\n &quot;know-how to make sure de-aged characters and CG faces
+    won&#x27;t take us straight &quot;\n &#x27;to uncanny valley anymore. Please enter
+    a valid email address&#x27;)</pre></td>\n                  </tr>\n                \n
+    \             </tbody>\n            </table>\n          \n        </li>\n      \n
+    \       \n        <li class=\"frame user\">\n          \n            <code class=\"fname\">/app/.heroku/python/lib/python3.9/site-packages/nltk/data.py</code>,
+    line 750, in load\n          \n\n          \n            <div class=\"context\"
+    id=\"c140708808575616\">\n              \n                <ol start=\"743\" class=\"pre-context\"
+    id=\"pre140708808575616\">\n                \n                  <li onclick=\"toggle('pre140708808575616',
+    'post140708808575616')\"><pre>            return resource_val</pre></li>\n                \n
+    \                 <li onclick=\"toggle('pre140708808575616', 'post140708808575616')\"><pre></pre></li>\n
+    \               \n                  <li onclick=\"toggle('pre140708808575616',
+    'post140708808575616')\"><pre>    # Let the user know what&#x27;s going on.</pre></li>\n
+    \               \n                  <li onclick=\"toggle('pre140708808575616',
+    'post140708808575616')\"><pre>    if verbose:</pre></li>\n                \n                  <li
+    onclick=\"toggle('pre140708808575616', 'post140708808575616')\"><pre>        print(&quot;&lt;&lt;Loading
+    %s&gt;&gt;&quot; % (resource_url,))</pre></li>\n                \n                  <li
+    onclick=\"toggle('pre140708808575616', 'post140708808575616')\"><pre></pre></li>\n
+    \               \n                  <li onclick=\"toggle('pre140708808575616',
+    'post140708808575616')\"><pre>    # Load the resource.</pre></li>\n                \n
+    \               </ol>\n              \n              <ol start=\"750\" class=\"context-line\">\n
+    \               <li onclick=\"toggle('pre140708808575616', 'post140708808575616')\"><pre>
+    \   opened_resource = _open(resource_url)</pre> <span></span></li>\n              </ol>\n
+    \             \n                <ol start='751' class=\"post-context\" id=\"post140708808575616\">\n
+    \                 \n                  <li onclick=\"toggle('pre140708808575616',
+    'post140708808575616')\"><pre></pre></li>\n                  \n                  <li
+    onclick=\"toggle('pre140708808575616', 'post140708808575616')\"><pre>    if format
+    == &quot;raw&quot;:</pre></li>\n                  \n                  <li onclick=\"toggle('pre140708808575616',
+    'post140708808575616')\"><pre>        resource_val = opened_resource.read()</pre></li>\n
+    \                 \n                  <li onclick=\"toggle('pre140708808575616',
+    'post140708808575616')\"><pre>    elif format == &quot;pickle&quot;:</pre></li>\n
+    \                 \n                  <li onclick=\"toggle('pre140708808575616',
+    'post140708808575616')\"><pre>        resource_val = pickle.load(opened_resource)</pre></li>\n
+    \                 \n                  <li onclick=\"toggle('pre140708808575616',
+    'post140708808575616')\"><pre>    elif format == &quot;json&quot;:</pre></li>\n
+    \                 \n              </ol>\n              \n            </div>\n
+    \         \n\n          \n            <div class=\"commands\">\n                \n
+    \                   <a href=\"#\" onclick=\"return varToggle(this, '140708808575616')\"><span>&#x25b6;</span>
+    Local vars</a>\n                \n            </div>\n            <table class=\"vars\"
+    id=\"v140708808575616\">\n              <thead>\n                <tr>\n                  <th>Variable</th>\n
+    \                 <th>Value</th>\n                </tr>\n              </thead>\n
+    \             <tbody>\n                \n                  <tr>\n                    <td>cache</td>\n
+    \                   <td class=\"code\"><pre>True</pre></td>\n                  </tr>\n
+    \               \n                  <tr>\n                    <td>encoding</td>\n
+    \                   <td class=\"code\"><pre>None</pre></td>\n                  </tr>\n
+    \               \n                  <tr>\n                    <td>ext</td>\n                    <td
+    class=\"code\"><pre>&#x27;pickle&#x27;</pre></td>\n                  </tr>\n                \n
+    \                 <tr>\n                    <td>format</td>\n                    <td
+    class=\"code\"><pre>&#x27;pickle&#x27;</pre></td>\n                  </tr>\n                \n
+    \                 <tr>\n                    <td>fstruct_reader</td>\n                    <td
+    class=\"code\"><pre>None</pre></td>\n                  </tr>\n                \n
+    \                 <tr>\n                    <td>logic_parser</td>\n                    <td
+    class=\"code\"><pre>None</pre></td>\n                  </tr>\n                \n
+    \                 <tr>\n                    <td>resource_url</td>\n                    <td
+    class=\"code\"><pre>&#x27;nltk:tokenizers/punkt/PY3/english.pickle&#x27;</pre></td>\n
+    \                 </tr>\n                \n                  <tr>\n                    <td>resource_url_parts</td>\n
+    \                   <td class=\"code\"><pre>[&#x27;nltk:tokenizers/punkt/PY3/english&#x27;,
+    &#x27;pickle&#x27;]</pre></td>\n                  </tr>\n                \n                  <tr>\n
+    \                   <td>resource_val</td>\n                    <td class=\"code\"><pre>None</pre></td>\n
+    \                 </tr>\n                \n                  <tr>\n                    <td>verbose</td>\n
+    \                   <td class=\"code\"><pre>False</pre></td>\n                  </tr>\n
+    \               \n              </tbody>\n            </table>\n          \n        </li>\n
+    \     \n        \n        <li class=\"frame user\">\n          \n            <code
+    class=\"fname\">/app/.heroku/python/lib/python3.9/site-packages/nltk/data.py</code>,
+    line 875, in _open\n          \n\n          \n            <div class=\"context\"
+    id=\"c140708808575680\">\n              \n                <ol start=\"868\" class=\"pre-context\"
+    id=\"pre140708808575680\">\n                \n                  <li onclick=\"toggle('pre140708808575680',
+    'post140708808575680')\"><pre>        loaded from.  The default protocol is &quot;nltk:&quot;,
+    which searches</pre></li>\n                \n                  <li onclick=\"toggle('pre140708808575680',
+    'post140708808575680')\"><pre>        for the file in the the NLTK data package.</pre></li>\n
+    \               \n                  <li onclick=\"toggle('pre140708808575680',
+    'post140708808575680')\"><pre>    &quot;&quot;&quot;</pre></li>\n                \n
+    \                 <li onclick=\"toggle('pre140708808575680', 'post140708808575680')\"><pre>
+    \   resource_url = normalize_resource_url(resource_url)</pre></li>\n                \n
+    \                 <li onclick=\"toggle('pre140708808575680', 'post140708808575680')\"><pre>
+    \   protocol, path_ = split_resource_url(resource_url)</pre></li>\n                \n
+    \                 <li onclick=\"toggle('pre140708808575680', 'post140708808575680')\"><pre></pre></li>\n
+    \               \n                  <li onclick=\"toggle('pre140708808575680',
+    'post140708808575680')\"><pre>    if protocol is None or protocol.lower() == &quot;nltk&quot;:</pre></li>\n
+    \               \n                </ol>\n              \n              <ol start=\"875\"
+    class=\"context-line\">\n                <li onclick=\"toggle('pre140708808575680',
+    'post140708808575680')\"><pre>        return find(path_, path + [&quot;&quot;]).open()</pre>
+    <span></span></li>\n              </ol>\n              \n                <ol start='876'
+    class=\"post-context\" id=\"post140708808575680\">\n                  \n                  <li
+    onclick=\"toggle('pre140708808575680', 'post140708808575680')\"><pre>    elif
+    protocol.lower() == &quot;file&quot;:</pre></li>\n                  \n                  <li
+    onclick=\"toggle('pre140708808575680', 'post140708808575680')\"><pre>        #
+    urllib might not use mode=&#x27;rb&#x27;, so handle this one ourselves:</pre></li>\n
+    \                 \n                  <li onclick=\"toggle('pre140708808575680',
+    'post140708808575680')\"><pre>        return find(path_, [&quot;&quot;]).open()</pre></li>\n
+    \                 \n                  <li onclick=\"toggle('pre140708808575680',
+    'post140708808575680')\"><pre>    else:</pre></li>\n                  \n                  <li
+    onclick=\"toggle('pre140708808575680', 'post140708808575680')\"><pre>        return
+    urlopen(resource_url)</pre></li>\n                  \n                  <li onclick=\"toggle('pre140708808575680',
+    'post140708808575680')\"><pre></pre></li>\n                  \n              </ol>\n
+    \             \n            </div>\n          \n\n          \n            <div
+    class=\"commands\">\n                \n                    <a href=\"#\" onclick=\"return
+    varToggle(this, '140708808575680')\"><span>&#x25b6;</span> Local vars</a>\n                \n
+    \           </div>\n            <table class=\"vars\" id=\"v140708808575680\">\n
+    \             <thead>\n                <tr>\n                  <th>Variable</th>\n
+    \                 <th>Value</th>\n                </tr>\n              </thead>\n
+    \             <tbody>\n                \n                  <tr>\n                    <td>path_</td>\n
+    \                   <td class=\"code\"><pre>&#x27;tokenizers/punkt/PY3/english.pickle&#x27;</pre></td>\n
+    \                 </tr>\n                \n                  <tr>\n                    <td>protocol</td>\n
+    \                   <td class=\"code\"><pre>&#x27;nltk&#x27;</pre></td>\n                  </tr>\n
+    \               \n                  <tr>\n                    <td>resource_url</td>\n
+    \                   <td class=\"code\"><pre>&#x27;nltk:tokenizers/punkt/PY3/english.pickle&#x27;</pre></td>\n
+    \                 </tr>\n                \n              </tbody>\n            </table>\n
+    \         \n        </li>\n      \n        \n        <li class=\"frame user\">\n
+    \         \n            <code class=\"fname\">/app/.heroku/python/lib/python3.9/site-packages/nltk/data.py</code>,
+    line 583, in find\n          \n\n          \n            <div class=\"context\"
+    id=\"c140708808575360\">\n              \n                <ol start=\"576\" class=\"pre-context\"
+    id=\"pre140708808575360\">\n                \n                  <li onclick=\"toggle('pre140708808575360',
+    'post140708808575360')\"><pre>    msg += &quot;\\n  Attempted to load \\33[93m{resource_name}\\033[0m\\n&quot;.format(</pre></li>\n
+    \               \n                  <li onclick=\"toggle('pre140708808575360',
+    'post140708808575360')\"><pre>        resource_name=resource_name</pre></li>\n
+    \               \n                  <li onclick=\"toggle('pre140708808575360',
+    'post140708808575360')\"><pre>    )</pre></li>\n                \n                  <li
+    onclick=\"toggle('pre140708808575360', 'post140708808575360')\"><pre></pre></li>\n
+    \               \n                  <li onclick=\"toggle('pre140708808575360',
+    'post140708808575360')\"><pre>    msg += &quot;\\n  Searched in:&quot; + &quot;&quot;.join(&quot;\\n
+    \   - %r&quot; % d for d in paths)</pre></li>\n                \n                  <li
+    onclick=\"toggle('pre140708808575360', 'post140708808575360')\"><pre>    sep =
+    &quot;*&quot; * 70</pre></li>\n                \n                  <li onclick=\"toggle('pre140708808575360',
+    'post140708808575360')\"><pre>    resource_not_found = &quot;\\n%s\\n%s\\n%s\\n&quot;
+    % (sep, msg, sep)</pre></li>\n                \n                </ol>\n              \n
+    \             <ol start=\"583\" class=\"context-line\">\n                <li onclick=\"toggle('pre140708808575360',
+    'post140708808575360')\"><pre>    raise LookupError(resource_not_found)</pre>
+    <span></span></li>\n              </ol>\n              \n                <ol start='584'
+    class=\"post-context\" id=\"post140708808575360\">\n                  \n                  <li
+    onclick=\"toggle('pre140708808575360', 'post140708808575360')\"><pre></pre></li>\n
+    \                 \n                  <li onclick=\"toggle('pre140708808575360',
+    'post140708808575360')\"><pre></pre></li>\n                  \n                  <li
+    onclick=\"toggle('pre140708808575360', 'post140708808575360')\"><pre>def retrieve(resource_url,
+    filename=None, verbose=True):</pre></li>\n                  \n                  <li
+    onclick=\"toggle('pre140708808575360', 'post140708808575360')\"><pre>    &quot;&quot;&quot;</pre></li>\n
+    \                 \n                  <li onclick=\"toggle('pre140708808575360',
+    'post140708808575360')\"><pre>    Copy the given resource to a local file.  If
+    no filename is</pre></li>\n                  \n                  <li onclick=\"toggle('pre140708808575360',
+    'post140708808575360')\"><pre>    specified, then use the URL&#x27;s filename.
+    \ If there is already a</pre></li>\n                  \n              </ol>\n
+    \             \n            </div>\n          \n\n          \n            <div
+    class=\"commands\">\n                \n                    <a href=\"#\" onclick=\"return
+    varToggle(this, '140708808575360')\"><span>&#x25b6;</span> Local vars</a>\n                \n
+    \           </div>\n            <table class=\"vars\" id=\"v140708808575360\">\n
+    \             <thead>\n                <tr>\n                  <th>Variable</th>\n
+    \                 <th>Value</th>\n                </tr>\n              </thead>\n
+    \             <tbody>\n                \n                  <tr>\n                    <td>i</td>\n
+    \                   <td class=\"code\"><pre>3</pre></td>\n                  </tr>\n
+    \               \n                  <tr>\n                    <td>m</td>\n                    <td
+    class=\"code\"><pre>&lt;re.Match object; span=(0, 0), match=&#x27;&#x27;&gt;</pre></td>\n
+    \                 </tr>\n                \n                  <tr>\n                    <td>modified_name</td>\n
+    \                   <td class=\"code\"><pre>&#x27;tokenizers/punkt/PY3/english.pickle.zip/english.pickle&#x27;</pre></td>\n
+    \                 </tr>\n                \n                  <tr>\n                    <td>msg</td>\n
+    \                   <td class=\"code\"><pre>(&#x27;  Resource \\x1b[93mpunkt\\x1b[0m
+    not found.\\n&#x27;\n &#x27;  Please use the NLTK Downloader to obtain the resource:\\n&#x27;\n
+    &#x27;\\n&#x27;\n &#x27;  \\x1b[31m&gt;&gt;&gt; import nltk\\n&#x27;\n &quot;
+    \ &gt;&gt;&gt; nltk.download(&#x27;punkt&#x27;)\\n&quot;\n &#x27;  \\x1b[0m\\n&#x27;\n
+    &#x27;  For more information see: https://www.nltk.org/data.html\\n&#x27;\n &#x27;\\n&#x27;\n
+    &#x27;  Attempted to load \\x1b[93mtokenizers/punkt/PY3/english.pickle\\x1b[0m\\n&#x27;\n
+    &#x27;\\n&#x27;\n &#x27;  Searched in:\\n&#x27;\n &quot;    - &#x27;/app/nltk_data&#x27;\\n&quot;\n
+    &quot;    - &#x27;/app/.heroku/python/nltk_data&#x27;\\n&quot;\n &quot;    - &#x27;/app/.heroku/python/share/nltk_data&#x27;\\n&quot;\n
+    &quot;    - &#x27;/app/.heroku/python/lib/nltk_data&#x27;\\n&quot;\n &quot;    -
+    &#x27;/usr/share/nltk_data&#x27;\\n&quot;\n &quot;    - &#x27;/usr/local/share/nltk_data&#x27;\\n&quot;\n
+    &quot;    - &#x27;/usr/lib/nltk_data&#x27;\\n&quot;\n &quot;    - &#x27;/usr/local/lib/nltk_data&#x27;\\n&quot;\n
+    &quot;    - &#x27;&#x27;&quot;)</pre></td>\n                  </tr>\n                \n
+    \                 <tr>\n                    <td>p</td>\n                    <td
+    class=\"code\"><pre>&#x27;tokenizers/punkt/PY3/english.pickle&#x27;</pre></td>\n
+    \                 </tr>\n                \n                  <tr>\n                    <td>path_</td>\n
+    \                   <td class=\"code\"><pre>&#x27;&#x27;</pre></td>\n                  </tr>\n
+    \               \n                  <tr>\n                    <td>paths</td>\n
+    \                   <td class=\"code\"><pre>[&#x27;/app/nltk_data&#x27;,\n &#x27;/app/.heroku/python/nltk_data&#x27;,\n
+    &#x27;/app/.heroku/python/share/nltk_data&#x27;,\n &#x27;/app/.heroku/python/lib/nltk_data&#x27;,\n
+    &#x27;/usr/share/nltk_data&#x27;,\n &#x27;/usr/local/share/nltk_data&#x27;,\n
+    &#x27;/usr/lib/nltk_data&#x27;,\n &#x27;/usr/local/lib/nltk_data&#x27;,\n &#x27;&#x27;]</pre></td>\n
+    \                 </tr>\n                \n                  <tr>\n                    <td>pieces</td>\n
+    \                   <td class=\"code\"><pre>[&#x27;tokenizers&#x27;, &#x27;punkt&#x27;,
+    &#x27;PY3&#x27;, &#x27;english.pickle&#x27;]</pre></td>\n                  </tr>\n
+    \               \n                  <tr>\n                    <td>resource_name</td>\n
+    \                   <td class=\"code\"><pre>&#x27;tokenizers/punkt/PY3/english.pickle&#x27;</pre></td>\n
+    \                 </tr>\n                \n                  <tr>\n                    <td>resource_not_found</td>\n
+    \                   <td class=\"code\"><pre>(&#x27;\\n&#x27;\n &#x27;**********************************************************************\\n&#x27;\n
+    &#x27;  Resource \\x1b[93mpunkt\\x1b[0m not found.\\n&#x27;\n &#x27;  Please use
+    the NLTK Downloader to obtain the resource:\\n&#x27;\n &#x27;\\n&#x27;\n &#x27;
+    \ \\x1b[31m&gt;&gt;&gt; import nltk\\n&#x27;\n &quot;  &gt;&gt;&gt; nltk.download(&#x27;punkt&#x27;)\\n&quot;\n
+    &#x27;  \\x1b[0m\\n&#x27;\n &#x27;  For more information see: https://www.nltk.org/data.html\\n&#x27;\n
+    &#x27;\\n&#x27;\n &#x27;  Attempted to load \\x1b[93mtokenizers/punkt/PY3/english.pickle\\x1b[0m\\n&#x27;\n
+    &#x27;\\n&#x27;\n &#x27;  Searched in:\\n&#x27;\n &quot;    - &#x27;/app/nltk_data&#x27;\\n&quot;\n
+    &quot;    - &#x27;/app/.heroku/python/nltk_data&#x27;\\n&quot;\n &quot;    - &#x27;/app/.heroku/python/share/nltk_data&#x27;\\n&quot;\n
+    &quot;    - &#x27;/app/.heroku/python/lib/nltk_data&#x27;\\n&quot;\n &quot;    -
+    &#x27;/usr/share/nltk_data&#x27;\\n&quot;\n &quot;    - &#x27;/usr/local/share/nltk_data&#x27;\\n&quot;\n
+    &quot;    - &#x27;/usr/lib/nltk_data&#x27;\\n&quot;\n &quot;    - &#x27;/usr/local/lib/nltk_data&#x27;\\n&quot;\n
+    &quot;    - &#x27;&#x27;\\n&quot;\n &#x27;**********************************************************************\\n&#x27;)</pre></td>\n
+    \                 </tr>\n                \n                  <tr>\n                    <td>resource_zipname</td>\n
+    \                   <td class=\"code\"><pre>&#x27;punkt&#x27;</pre></td>\n                  </tr>\n
+    \               \n                  <tr>\n                    <td>sep</td>\n                    <td
+    class=\"code\"><pre>&#x27;**********************************************************************&#x27;</pre></td>\n
+    \                 </tr>\n                \n                  <tr>\n                    <td>zipentry</td>\n
+    \                   <td class=\"code\"><pre>None</pre></td>\n                  </tr>\n
+    \               \n                  <tr>\n                    <td>zipfile</td>\n
+    \                   <td class=\"code\"><pre>None</pre></td>\n                  </tr>\n
+    \               \n              </tbody>\n            </table>\n          \n        </li>\n
+    \     \n    </ul>\n  </div>\n  <form action=\"https://dpaste.com/\" name=\"pasteform\"
+    id=\"pasteform\" method=\"post\">\n\n  <div id=\"pastebinTraceback\" class=\"pastebin\">\n
+    \   <input type=\"hidden\" name=\"language\" value=\"PythonConsole\">\n    <input
+    type=\"hidden\" name=\"title\"\n      value=\"LookupError at /api/\">\n    <input
+    type=\"hidden\" name=\"source\" value=\"Django Dpaste Agent\">\n    <input type=\"hidden\"
+    name=\"poster\" value=\"Django\">\n    <textarea name=\"content\" id=\"traceback_area\"
+    cols=\"140\" rows=\"25\">\nEnvironment:\n\n\nRequest Method: POST\nRequest URL:
+    https://api-makemetechie.herokuapp.com/api/\n\nDjango Version: 3.2.5\nPython Version:
+    3.9.6\nInstalled Applications:\n[&#x27;django.contrib.admin&#x27;,\n &#x27;django.contrib.auth&#x27;,\n
+    &#x27;django.contrib.contenttypes&#x27;,\n &#x27;django.contrib.sessions&#x27;,\n
+    &#x27;django.contrib.messages&#x27;,\n &#x27;django.contrib.staticfiles&#x27;,\n
+    &#x27;webBackend.apps.WebbackendConfig&#x27;,\n &#x27;web.myappconfig.MyAppConfig&#x27;]\nInstalled
+    Middleware:\n(&#x27;whitenoise.middleware.WhiteNoiseMiddleware&#x27;,\n &#x27;django.middleware.security.SecurityMiddleware&#x27;,\n
+    &#x27;django.contrib.sessions.middleware.SessionMiddleware&#x27;,\n &#x27;django.middleware.common.CommonMiddleware&#x27;,\n
+    &#x27;django.contrib.auth.middleware.AuthenticationMiddleware&#x27;,\n &#x27;django.contrib.messages.middleware.MessageMiddleware&#x27;,\n
+    &#x27;django.middleware.clickjacking.XFrameOptionsMiddleware&#x27;)\n\n\n\nTraceback
+    (most recent call last):\n  File \"/app/.heroku/python/lib/python3.9/site-packages/django/core/handlers/exception.py\",
+    line 47, in inner\n    response = get_response(request)\n  File \"/app/.heroku/python/lib/python3.9/site-packages/django/core/handlers/base.py\",
+    line 181, in _get_response\n    response = wrapped_callback(request, *callback_args,
+    **callback_kwargs)\n  File \"/app/webBackend/views.py\", line 11, in index\n    return
+    HttpResponse(NltkOperations.get_summary(json_data[&#x27;url&#x27;]))\n  File \"/app/webBackend/nltkOperations.py\",
+    line 42, in get_summary\n    sentence_list = nltk.sent_tokenize(article_text)\n
+    \ File \"/app/.heroku/python/lib/python3.9/site-packages/nltk/tokenize/__init__.py\",
+    line 107, in sent_tokenize\n    tokenizer = load(&quot;tokenizers/punkt/{0}.pickle&quot;.format(language))\n
+    \ File \"/app/.heroku/python/lib/python3.9/site-packages/nltk/data.py\", line
+    750, in load\n    opened_resource = _open(resource_url)\n  File \"/app/.heroku/python/lib/python3.9/site-packages/nltk/data.py\",
+    line 875, in _open\n    return find(path_, path + [&quot;&quot;]).open()\n  File
+    \"/app/.heroku/python/lib/python3.9/site-packages/nltk/data.py\", line 583, in
+    find\n    raise LookupError(resource_not_found)\n\nException Type: LookupError
+    at /api/\nException Value: \n**********************************************************************\n
+    \ Resource \e[93mpunkt\e[0m not found.\n  Please use the NLTK Downloader to obtain
+    the resource:\n\n  \e[31m&gt;&gt;&gt; import nltk\n  &gt;&gt;&gt; nltk.download(&#x27;punkt&#x27;)\n
+    \ \e[0m\n  For more information see: https://www.nltk.org/data.html\n\n  Attempted
+    to load \e[93mtokenizers/punkt/PY3/english.pickle\e[0m\n\n  Searched in:\n    -
+    &#x27;/app/nltk_data&#x27;\n    - &#x27;/app/.heroku/python/nltk_data&#x27;\n
+    \   - &#x27;/app/.heroku/python/share/nltk_data&#x27;\n    - &#x27;/app/.heroku/python/lib/nltk_data&#x27;\n
+    \   - &#x27;/usr/share/nltk_data&#x27;\n    - &#x27;/usr/local/share/nltk_data&#x27;\n
+    \   - &#x27;/usr/lib/nltk_data&#x27;\n    - &#x27;/usr/local/lib/nltk_data&#x27;\n
+    \   - &#x27;&#x27;\n**********************************************************************\n\n</textarea>\n
+    \ <br><br>\n  <input type=\"submit\" value=\"Share this traceback on a public
+    website\">\n  </div>\n</form>\n</div>\n\n\n\n<div id=\"requestinfo\">\n  <h2>Request
+    information</h2>\n\n\n  \n    <h3 id=\"user-info\">USER</h3>\n    <p>AnonymousUser</p>\n
+    \ \n\n  <h3 id=\"get-info\">GET</h3>\n  \n    <p>No GET data</p>\n  \n\n  <h3
+    id=\"post-info\">POST</h3>\n  \n    <p>No POST data</p>\n  \n  <h3 id=\"files-info\">FILES</h3>\n
+    \ \n    <p>No FILES data</p>\n  \n\n\n  <h3 id=\"cookie-info\">COOKIES</h3>\n
+    \ \n    <p>No cookie data</p>\n  \n\n  <h3 id=\"meta-info\">META</h3>\n  <table
+    class=\"req\">\n    <thead>\n      <tr>\n        <th>Variable</th>\n        <th>Value</th>\n
+    \     </tr>\n    </thead>\n    <tbody>\n      \n        <tr>\n          <td>CONTENT_LENGTH</td>\n
+    \         <td class=\"code\"><pre>&#x27;73&#x27;</pre></td>\n        </tr>\n      \n
+    \       <tr>\n          <td>CONTENT_TYPE</td>\n          <td class=\"code\"><pre>&#x27;application/json&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>HTTP_ACCEPT</td>\n          <td
+    class=\"code\"><pre>&#x27;*/*&#x27;</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>HTTP_ACCEPT_ENCODING</td>\n          <td class=\"code\"><pre>&#x27;gzip;q=1.0,deflate;q=0.6,identity;q=0.3&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>HTTP_CONNECTION</td>\n          <td
+    class=\"code\"><pre>&#x27;close&#x27;</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>HTTP_CONNECT_TIME</td>\n          <td class=\"code\"><pre>&#x27;0&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>HTTP_HOST</td>\n          <td
+    class=\"code\"><pre>&#x27;api-makemetechie.herokuapp.com&#x27;</pre></td>\n        </tr>\n
+    \     \n        <tr>\n          <td>HTTP_TOTAL_ROUTE_TIME</td>\n          <td
+    class=\"code\"><pre>&#x27;18109&#x27;</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>HTTP_USER_AGENT</td>\n          <td class=\"code\"><pre>&#x27;Ruby&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>HTTP_VIA</td>\n          <td
+    class=\"code\"><pre>&#x27;1.1 vegur&#x27;</pre></td>\n        </tr>\n      \n
+    \       <tr>\n          <td>HTTP_X_FORWARDED_FOR</td>\n          <td class=\"code\"><pre>&#x27;20.97.28.186&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>HTTP_X_FORWARDED_PORT</td>\n
+    \         <td class=\"code\"><pre>&#x27;443&#x27;</pre></td>\n        </tr>\n
+    \     \n        <tr>\n          <td>HTTP_X_FORWARDED_PROTO</td>\n          <td
+    class=\"code\"><pre>&#x27;https&#x27;</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>HTTP_X_REQUEST_ID</td>\n          <td class=\"code\"><pre>&#x27;d7299c35-980a-4cca-8257-a3380716f5b8&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>HTTP_X_REQUEST_START</td>\n
+    \         <td class=\"code\"><pre>&#x27;1627367840730&#x27;</pre></td>\n        </tr>\n
+    \     \n        <tr>\n          <td>PATH_INFO</td>\n          <td class=\"code\"><pre>&#x27;/api/&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>QUERY_STRING</td>\n          <td
+    class=\"code\"><pre>&#x27;&#x27;</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>RAW_URI</td>\n          <td class=\"code\"><pre>&#x27;/api/&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>REMOTE_ADDR</td>\n          <td
+    class=\"code\"><pre>&#x27;10.45.67.217&#x27;</pre></td>\n        </tr>\n      \n
+    \       <tr>\n          <td>REMOTE_PORT</td>\n          <td class=\"code\"><pre>&#x27;23346&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>REQUEST_METHOD</td>\n          <td
+    class=\"code\"><pre>&#x27;POST&#x27;</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>SCRIPT_NAME</td>\n          <td class=\"code\"><pre>&#x27;&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>SERVER_NAME</td>\n          <td
+    class=\"code\"><pre>&#x27;0.0.0.0&#x27;</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>SERVER_PORT</td>\n          <td class=\"code\"><pre>&#x27;31286&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>SERVER_PROTOCOL</td>\n          <td
+    class=\"code\"><pre>&#x27;HTTP/1.1&#x27;</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>SERVER_SOFTWARE</td>\n          <td class=\"code\"><pre>&#x27;gunicorn/20.0.4&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>gunicorn.socket</td>\n          <td
+    class=\"code\"><pre>&lt;socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM,
+    proto=0, laddr=(&#x27;172.16.199.18&#x27;, 31286), raddr=(&#x27;10.45.67.217&#x27;,
+    23346)&gt;</pre></td>\n        </tr>\n      \n        <tr>\n          <td>wsgi.errors</td>\n
+    \         <td class=\"code\"><pre>&lt;gunicorn.http.wsgi.WSGIErrorsWrapper object
+    at 0x7ff9529d4040&gt;</pre></td>\n        </tr>\n      \n        <tr>\n          <td>wsgi.file_wrapper</td>\n
+    \         <td class=\"code\"><pre>&lt;class &#x27;gunicorn.http.wsgi.FileWrapper&#x27;&gt;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>wsgi.input</td>\n          <td
+    class=\"code\"><pre>&lt;gunicorn.http.body.Body object at 0x7ff952a2deb0&gt;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>wsgi.input_terminated</td>\n
+    \         <td class=\"code\"><pre>True</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>wsgi.multiprocess</td>\n          <td class=\"code\"><pre>True</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>wsgi.multithread</td>\n          <td
+    class=\"code\"><pre>False</pre></td>\n        </tr>\n      \n        <tr>\n          <td>wsgi.run_once</td>\n
+    \         <td class=\"code\"><pre>False</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>wsgi.url_scheme</td>\n          <td class=\"code\"><pre>&#x27;https&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>wsgi.version</td>\n          <td
+    class=\"code\"><pre>(1, 0)</pre></td>\n        </tr>\n      \n    </tbody>\n  </table>\n\n\n
+    \ <h3 id=\"settings-info\">Settings</h3>\n  <h4>Using settings module <code>web.settings</code></h4>\n
+    \ <table class=\"req\">\n    <thead>\n      <tr>\n        <th>Setting</th>\n        <th>Value</th>\n
+    \     </tr>\n    </thead>\n    <tbody>\n      \n        <tr>\n          <td>ABSOLUTE_URL_OVERRIDES</td>\n
+    \         <td class=\"code\"><pre>{}</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>ADMINS</td>\n          <td class=\"code\"><pre>[]</pre></td>\n        </tr>\n
+    \     \n        <tr>\n          <td>ALLOWED_HOSTS</td>\n          <td class=\"code\"><pre>[&#x27;*&#x27;]</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>APPEND_SLASH</td>\n          <td
+    class=\"code\"><pre>True</pre></td>\n        </tr>\n      \n        <tr>\n          <td>AUTHENTICATION_BACKENDS</td>\n
+    \         <td class=\"code\"><pre>[&#x27;django.contrib.auth.backends.ModelBackend&#x27;]</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>AUTH_PASSWORD_VALIDATORS</td>\n
+    \         <td class=\"code\"><pre>&#x27;********************&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>AUTH_USER_MODEL</td>\n          <td
+    class=\"code\"><pre>&#x27;auth.User&#x27;</pre></td>\n        </tr>\n      \n
+    \       <tr>\n          <td>BASE_DIR</td>\n          <td class=\"code\"><pre>PosixPath(&#x27;/app&#x27;)</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>CACHES</td>\n          <td
+    class=\"code\"><pre>{&#x27;default&#x27;: {&#x27;BACKEND&#x27;: &#x27;django.core.cache.backends.locmem.LocMemCache&#x27;}}</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>CACHE_MIDDLEWARE_ALIAS</td>\n
+    \         <td class=\"code\"><pre>&#x27;default&#x27;</pre></td>\n        </tr>\n
+    \     \n        <tr>\n          <td>CACHE_MIDDLEWARE_KEY_PREFIX</td>\n          <td
+    class=\"code\"><pre>&#x27;********************&#x27;</pre></td>\n        </tr>\n
+    \     \n        <tr>\n          <td>CACHE_MIDDLEWARE_SECONDS</td>\n          <td
+    class=\"code\"><pre>600</pre></td>\n        </tr>\n      \n        <tr>\n          <td>CSRF_COOKIE_AGE</td>\n
+    \         <td class=\"code\"><pre>31449600</pre></td>\n        </tr>\n      \n
+    \       <tr>\n          <td>CSRF_COOKIE_DOMAIN</td>\n          <td class=\"code\"><pre>None</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>CSRF_COOKIE_HTTPONLY</td>\n
+    \         <td class=\"code\"><pre>False</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>CSRF_COOKIE_NAME</td>\n          <td class=\"code\"><pre>&#x27;csrftoken&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>CSRF_COOKIE_PATH</td>\n          <td
+    class=\"code\"><pre>&#x27;/&#x27;</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>CSRF_COOKIE_SAMESITE</td>\n          <td class=\"code\"><pre>&#x27;Lax&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>CSRF_COOKIE_SECURE</td>\n          <td
+    class=\"code\"><pre>False</pre></td>\n        </tr>\n      \n        <tr>\n          <td>CSRF_FAILURE_VIEW</td>\n
+    \         <td class=\"code\"><pre>&#x27;django.views.csrf.csrf_failure&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>CSRF_HEADER_NAME</td>\n          <td
+    class=\"code\"><pre>&#x27;HTTP_X_CSRFTOKEN&#x27;</pre></td>\n        </tr>\n      \n
+    \       <tr>\n          <td>CSRF_TRUSTED_ORIGINS</td>\n          <td class=\"code\"><pre>[]</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>CSRF_USE_SESSIONS</td>\n          <td
+    class=\"code\"><pre>False</pre></td>\n        </tr>\n      \n        <tr>\n          <td>DATABASES</td>\n
+    \         <td class=\"code\"><pre>{&#x27;default&#x27;: {&#x27;ATOMIC_REQUESTS&#x27;:
+    False,\n             &#x27;AUTOCOMMIT&#x27;: True,\n             &#x27;CONN_MAX_AGE&#x27;:
+    600,\n             &#x27;ENGINE&#x27;: &#x27;django.db.backends.postgresql_psycopg2&#x27;,\n
+    \            &#x27;HOST&#x27;: &#x27;ec2-52-6-77-239.compute-1.amazonaws.com&#x27;,\n
+    \            &#x27;NAME&#x27;: &#x27;dpe0b8nvsktst&#x27;,\n             &#x27;OPTIONS&#x27;:
+    {&#x27;sslmode&#x27;: &#x27;require&#x27;},\n             &#x27;PASSWORD&#x27;:
+    &#x27;********************&#x27;,\n             &#x27;PORT&#x27;: 5432,\n             &#x27;TEST&#x27;:
+    {&#x27;CHARSET&#x27;: None,\n                      &#x27;COLLATION&#x27;: None,\n
+    \                     &#x27;MIGRATE&#x27;: True,\n                      &#x27;MIRROR&#x27;:
+    None,\n                      &#x27;NAME&#x27;: None},\n             &#x27;TIME_ZONE&#x27;:
+    None,\n             &#x27;USER&#x27;: &#x27;ifykwxvktsdtav&#x27;}}</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>DATABASE_ROUTERS</td>\n          <td
+    class=\"code\"><pre>[]</pre></td>\n        </tr>\n      \n        <tr>\n          <td>DATA_UPLOAD_MAX_MEMORY_SIZE</td>\n
+    \         <td class=\"code\"><pre>2621440</pre></td>\n        </tr>\n      \n
+    \       <tr>\n          <td>DATA_UPLOAD_MAX_NUMBER_FIELDS</td>\n          <td
+    class=\"code\"><pre>1000</pre></td>\n        </tr>\n      \n        <tr>\n          <td>DATETIME_FORMAT</td>\n
+    \         <td class=\"code\"><pre>&#x27;N j, Y, P&#x27;</pre></td>\n        </tr>\n
+    \     \n        <tr>\n          <td>DATETIME_INPUT_FORMATS</td>\n          <td
+    class=\"code\"><pre>[&#x27;%Y-%m-%d %H:%M:%S&#x27;,\n &#x27;%Y-%m-%d %H:%M:%S.%f&#x27;,\n
+    &#x27;%Y-%m-%d %H:%M&#x27;,\n &#x27;%m/%d/%Y %H:%M:%S&#x27;,\n &#x27;%m/%d/%Y
+    %H:%M:%S.%f&#x27;,\n &#x27;%m/%d/%Y %H:%M&#x27;,\n &#x27;%m/%d/%y %H:%M:%S&#x27;,\n
+    &#x27;%m/%d/%y %H:%M:%S.%f&#x27;,\n &#x27;%m/%d/%y %H:%M&#x27;]</pre></td>\n        </tr>\n
+    \     \n        <tr>\n          <td>DATE_FORMAT</td>\n          <td class=\"code\"><pre>&#x27;N
+    j, Y&#x27;</pre></td>\n        </tr>\n      \n        <tr>\n          <td>DATE_INPUT_FORMATS</td>\n
+    \         <td class=\"code\"><pre>[&#x27;%Y-%m-%d&#x27;,\n &#x27;%m/%d/%Y&#x27;,\n
+    &#x27;%m/%d/%y&#x27;,\n &#x27;%b %d %Y&#x27;,\n &#x27;%b %d, %Y&#x27;,\n &#x27;%d
+    %b %Y&#x27;,\n &#x27;%d %b, %Y&#x27;,\n &#x27;%B %d %Y&#x27;,\n &#x27;%B %d, %Y&#x27;,\n
+    &#x27;%d %B %Y&#x27;,\n &#x27;%d %B, %Y&#x27;]</pre></td>\n        </tr>\n      \n
+    \       <tr>\n          <td>DEBUG</td>\n          <td class=\"code\"><pre>True</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>DEBUG_PROPAGATE_EXCEPTIONS</td>\n
+    \         <td class=\"code\"><pre>False</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>DECIMAL_SEPARATOR</td>\n          <td class=\"code\"><pre>&#x27;.&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>DEFAULT_AUTO_FIELD</td>\n          <td
+    class=\"code\"><pre>&#x27;django.db.models.AutoField&#x27;</pre></td>\n        </tr>\n
+    \     \n        <tr>\n          <td>DEFAULT_CHARSET</td>\n          <td class=\"code\"><pre>&#x27;utf-8&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>DEFAULT_EXCEPTION_REPORTER</td>\n
+    \         <td class=\"code\"><pre>&#x27;django.views.debug.ExceptionReporter&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>DEFAULT_EXCEPTION_REPORTER_FILTER</td>\n
+    \         <td class=\"code\"><pre>&#x27;django.views.debug.SafeExceptionReporterFilter&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>DEFAULT_FILE_STORAGE</td>\n
+    \         <td class=\"code\"><pre>&#x27;django.core.files.storage.FileSystemStorage&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>DEFAULT_FROM_EMAIL</td>\n          <td
+    class=\"code\"><pre>&#x27;webmaster@localhost&#x27;</pre></td>\n        </tr>\n
+    \     \n        <tr>\n          <td>DEFAULT_HASHING_ALGORITHM</td>\n          <td
+    class=\"code\"><pre>&#x27;sha256&#x27;</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>DEFAULT_INDEX_TABLESPACE</td>\n          <td class=\"code\"><pre>&#x27;&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>DEFAULT_TABLESPACE</td>\n          <td
+    class=\"code\"><pre>&#x27;&#x27;</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>DISALLOWED_USER_AGENTS</td>\n          <td class=\"code\"><pre>[]</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>EMAIL_BACKEND</td>\n          <td
+    class=\"code\"><pre>&#x27;django.core.mail.backends.smtp.EmailBackend&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>EMAIL_HOST</td>\n          <td
+    class=\"code\"><pre>&#x27;localhost&#x27;</pre></td>\n        </tr>\n      \n
+    \       <tr>\n          <td>EMAIL_HOST_PASSWORD</td>\n          <td class=\"code\"><pre>&#x27;********************&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>EMAIL_HOST_USER</td>\n          <td
+    class=\"code\"><pre>&#x27;&#x27;</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>EMAIL_PORT</td>\n          <td class=\"code\"><pre>25</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>EMAIL_SSL_CERTFILE</td>\n          <td
+    class=\"code\"><pre>None</pre></td>\n        </tr>\n      \n        <tr>\n          <td>EMAIL_SSL_KEYFILE</td>\n
+    \         <td class=\"code\"><pre>&#x27;********************&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>EMAIL_SUBJECT_PREFIX</td>\n
+    \         <td class=\"code\"><pre>&#x27;[Django] &#x27;</pre></td>\n        </tr>\n
+    \     \n        <tr>\n          <td>EMAIL_TIMEOUT</td>\n          <td class=\"code\"><pre>None</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>EMAIL_USE_LOCALTIME</td>\n
+    \         <td class=\"code\"><pre>False</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>EMAIL_USE_SSL</td>\n          <td class=\"code\"><pre>False</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>EMAIL_USE_TLS</td>\n          <td
+    class=\"code\"><pre>False</pre></td>\n        </tr>\n      \n        <tr>\n          <td>FILE_UPLOAD_DIRECTORY_PERMISSIONS</td>\n
+    \         <td class=\"code\"><pre>None</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>FILE_UPLOAD_HANDLERS</td>\n          <td class=\"code\"><pre>[&#x27;django.core.files.uploadhandler.MemoryFileUploadHandler&#x27;,\n
+    &#x27;django.core.files.uploadhandler.TemporaryFileUploadHandler&#x27;]</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>FILE_UPLOAD_MAX_MEMORY_SIZE</td>\n
+    \         <td class=\"code\"><pre>2621440</pre></td>\n        </tr>\n      \n
+    \       <tr>\n          <td>FILE_UPLOAD_PERMISSIONS</td>\n          <td class=\"code\"><pre>420</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>FILE_UPLOAD_TEMP_DIR</td>\n
+    \         <td class=\"code\"><pre>None</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>FIRST_DAY_OF_WEEK</td>\n          <td class=\"code\"><pre>0</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>FIXTURE_DIRS</td>\n          <td
+    class=\"code\"><pre>[]</pre></td>\n        </tr>\n      \n        <tr>\n          <td>FORCE_SCRIPT_NAME</td>\n
+    \         <td class=\"code\"><pre>None</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>FORMAT_MODULE_PATH</td>\n          <td class=\"code\"><pre>None</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>FORM_RENDERER</td>\n          <td
+    class=\"code\"><pre>&#x27;django.forms.renderers.DjangoTemplates&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>IGNORABLE_404_URLS</td>\n          <td
+    class=\"code\"><pre>[]</pre></td>\n        </tr>\n      \n        <tr>\n          <td>INSTALLED_APPS</td>\n
+    \         <td class=\"code\"><pre>[&#x27;django.contrib.admin&#x27;,\n &#x27;django.contrib.auth&#x27;,\n
+    &#x27;django.contrib.contenttypes&#x27;,\n &#x27;django.contrib.sessions&#x27;,\n
+    &#x27;django.contrib.messages&#x27;,\n &#x27;django.contrib.staticfiles&#x27;,\n
+    &#x27;webBackend.apps.WebbackendConfig&#x27;,\n &#x27;web.myappconfig.MyAppConfig&#x27;]</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>INTERNAL_IPS</td>\n          <td
+    class=\"code\"><pre>[]</pre></td>\n        </tr>\n      \n        <tr>\n          <td>LANGUAGES</td>\n
+    \         <td class=\"code\"><pre>[(&#x27;af&#x27;, &#x27;Afrikaans&#x27;),\n
+    (&#x27;ar&#x27;, &#x27;Arabic&#x27;),\n (&#x27;ar-dz&#x27;, &#x27;Algerian Arabic&#x27;),\n
+    (&#x27;ast&#x27;, &#x27;Asturian&#x27;),\n (&#x27;az&#x27;, &#x27;Azerbaijani&#x27;),\n
+    (&#x27;bg&#x27;, &#x27;Bulgarian&#x27;),\n (&#x27;be&#x27;, &#x27;Belarusian&#x27;),\n
+    (&#x27;bn&#x27;, &#x27;Bengali&#x27;),\n (&#x27;br&#x27;, &#x27;Breton&#x27;),\n
+    (&#x27;bs&#x27;, &#x27;Bosnian&#x27;),\n (&#x27;ca&#x27;, &#x27;Catalan&#x27;),\n
+    (&#x27;cs&#x27;, &#x27;Czech&#x27;),\n (&#x27;cy&#x27;, &#x27;Welsh&#x27;),\n
+    (&#x27;da&#x27;, &#x27;Danish&#x27;),\n (&#x27;de&#x27;, &#x27;German&#x27;),\n
+    (&#x27;dsb&#x27;, &#x27;Lower Sorbian&#x27;),\n (&#x27;el&#x27;, &#x27;Greek&#x27;),\n
+    (&#x27;en&#x27;, &#x27;English&#x27;),\n (&#x27;en-au&#x27;, &#x27;Australian
+    English&#x27;),\n (&#x27;en-gb&#x27;, &#x27;British English&#x27;),\n (&#x27;eo&#x27;,
+    &#x27;Esperanto&#x27;),\n (&#x27;es&#x27;, &#x27;Spanish&#x27;),\n (&#x27;es-ar&#x27;,
+    &#x27;Argentinian Spanish&#x27;),\n (&#x27;es-co&#x27;, &#x27;Colombian Spanish&#x27;),\n
+    (&#x27;es-mx&#x27;, &#x27;Mexican Spanish&#x27;),\n (&#x27;es-ni&#x27;, &#x27;Nicaraguan
+    Spanish&#x27;),\n (&#x27;es-ve&#x27;, &#x27;Venezuelan Spanish&#x27;),\n (&#x27;et&#x27;,
+    &#x27;Estonian&#x27;),\n (&#x27;eu&#x27;, &#x27;Basque&#x27;),\n (&#x27;fa&#x27;,
+    &#x27;Persian&#x27;),\n (&#x27;fi&#x27;, &#x27;Finnish&#x27;),\n (&#x27;fr&#x27;,
+    &#x27;French&#x27;),\n (&#x27;fy&#x27;, &#x27;Frisian&#x27;),\n (&#x27;ga&#x27;,
+    &#x27;Irish&#x27;),\n (&#x27;gd&#x27;, &#x27;Scottish Gaelic&#x27;),\n (&#x27;gl&#x27;,
+    &#x27;Galician&#x27;),\n (&#x27;he&#x27;, &#x27;Hebrew&#x27;),\n (&#x27;hi&#x27;,
+    &#x27;Hindi&#x27;),\n (&#x27;hr&#x27;, &#x27;Croatian&#x27;),\n (&#x27;hsb&#x27;,
+    &#x27;Upper Sorbian&#x27;),\n (&#x27;hu&#x27;, &#x27;Hungarian&#x27;),\n (&#x27;hy&#x27;,
+    &#x27;Armenian&#x27;),\n (&#x27;ia&#x27;, &#x27;Interlingua&#x27;),\n (&#x27;id&#x27;,
+    &#x27;Indonesian&#x27;),\n (&#x27;ig&#x27;, &#x27;Igbo&#x27;),\n (&#x27;io&#x27;,
+    &#x27;Ido&#x27;),\n (&#x27;is&#x27;, &#x27;Icelandic&#x27;),\n (&#x27;it&#x27;,
+    &#x27;Italian&#x27;),\n (&#x27;ja&#x27;, &#x27;Japanese&#x27;),\n (&#x27;ka&#x27;,
+    &#x27;Georgian&#x27;),\n (&#x27;kab&#x27;, &#x27;Kabyle&#x27;),\n (&#x27;kk&#x27;,
+    &#x27;Kazakh&#x27;),\n (&#x27;km&#x27;, &#x27;Khmer&#x27;),\n (&#x27;kn&#x27;,
+    &#x27;Kannada&#x27;),\n (&#x27;ko&#x27;, &#x27;Korean&#x27;),\n (&#x27;ky&#x27;,
+    &#x27;Kyrgyz&#x27;),\n (&#x27;lb&#x27;, &#x27;Luxembourgish&#x27;),\n (&#x27;lt&#x27;,
+    &#x27;Lithuanian&#x27;),\n (&#x27;lv&#x27;, &#x27;Latvian&#x27;),\n (&#x27;mk&#x27;,
+    &#x27;Macedonian&#x27;),\n (&#x27;ml&#x27;, &#x27;Malayalam&#x27;),\n (&#x27;mn&#x27;,
+    &#x27;Mongolian&#x27;),\n (&#x27;mr&#x27;, &#x27;Marathi&#x27;),\n (&#x27;my&#x27;,
+    &#x27;Burmese&#x27;),\n (&#x27;nb&#x27;, &#x27;Norwegian Bokml&#x27;),\n (&#x27;ne&#x27;,
+    &#x27;Nepali&#x27;),\n (&#x27;nl&#x27;, &#x27;Dutch&#x27;),\n (&#x27;nn&#x27;,
+    &#x27;Norwegian Nynorsk&#x27;),\n (&#x27;os&#x27;, &#x27;Ossetic&#x27;),\n (&#x27;pa&#x27;,
+    &#x27;Punjabi&#x27;),\n (&#x27;pl&#x27;, &#x27;Polish&#x27;),\n (&#x27;pt&#x27;,
+    &#x27;Portuguese&#x27;),\n (&#x27;pt-br&#x27;, &#x27;Brazilian Portuguese&#x27;),\n
+    (&#x27;ro&#x27;, &#x27;Romanian&#x27;),\n (&#x27;ru&#x27;, &#x27;Russian&#x27;),\n
+    (&#x27;sk&#x27;, &#x27;Slovak&#x27;),\n (&#x27;sl&#x27;, &#x27;Slovenian&#x27;),\n
+    (&#x27;sq&#x27;, &#x27;Albanian&#x27;),\n (&#x27;sr&#x27;, &#x27;Serbian&#x27;),\n
+    (&#x27;sr-latn&#x27;, &#x27;Serbian Latin&#x27;),\n (&#x27;sv&#x27;, &#x27;Swedish&#x27;),\n
+    (&#x27;sw&#x27;, &#x27;Swahili&#x27;),\n (&#x27;ta&#x27;, &#x27;Tamil&#x27;),\n
+    (&#x27;te&#x27;, &#x27;Telugu&#x27;),\n (&#x27;tg&#x27;, &#x27;Tajik&#x27;),\n
+    (&#x27;th&#x27;, &#x27;Thai&#x27;),\n (&#x27;tk&#x27;, &#x27;Turkmen&#x27;),\n
+    (&#x27;tr&#x27;, &#x27;Turkish&#x27;),\n (&#x27;tt&#x27;, &#x27;Tatar&#x27;),\n
+    (&#x27;udm&#x27;, &#x27;Udmurt&#x27;),\n (&#x27;uk&#x27;, &#x27;Ukrainian&#x27;),\n
+    (&#x27;ur&#x27;, &#x27;Urdu&#x27;),\n (&#x27;uz&#x27;, &#x27;Uzbek&#x27;),\n (&#x27;vi&#x27;,
+    &#x27;Vietnamese&#x27;),\n (&#x27;zh-hans&#x27;, &#x27;Simplified Chinese&#x27;),\n
+    (&#x27;zh-hant&#x27;, &#x27;Traditional Chinese&#x27;)]</pre></td>\n        </tr>\n
+    \     \n        <tr>\n          <td>LANGUAGES_BIDI</td>\n          <td class=\"code\"><pre>[&#x27;he&#x27;,
+    &#x27;ar&#x27;, &#x27;ar-dz&#x27;, &#x27;fa&#x27;, &#x27;ur&#x27;]</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>LANGUAGE_CODE</td>\n          <td
+    class=\"code\"><pre>&#x27;en-us&#x27;</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>LANGUAGE_COOKIE_AGE</td>\n          <td class=\"code\"><pre>None</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>LANGUAGE_COOKIE_DOMAIN</td>\n
+    \         <td class=\"code\"><pre>None</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>LANGUAGE_COOKIE_HTTPONLY</td>\n          <td class=\"code\"><pre>False</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>LANGUAGE_COOKIE_NAME</td>\n
+    \         <td class=\"code\"><pre>&#x27;django_language&#x27;</pre></td>\n        </tr>\n
+    \     \n        <tr>\n          <td>LANGUAGE_COOKIE_PATH</td>\n          <td class=\"code\"><pre>&#x27;/&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>LANGUAGE_COOKIE_SAMESITE</td>\n
+    \         <td class=\"code\"><pre>None</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>LANGUAGE_COOKIE_SECURE</td>\n          <td class=\"code\"><pre>False</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>LOCALE_PATHS</td>\n          <td
+    class=\"code\"><pre>[]</pre></td>\n        </tr>\n      \n        <tr>\n          <td>LOGGING</td>\n
+    \         <td class=\"code\"><pre>{&#x27;disable_existing_loggers&#x27;: False,\n
+    &#x27;formatters&#x27;: {&#x27;simple&#x27;: {&#x27;format&#x27;: &#x27;%(levelname)s
+    %(message)s&#x27;},\n                &#x27;verbose&#x27;: {&#x27;datefmt&#x27;:
+    &#x27;%Y-%m-%d %H:%M:%S&#x27;,\n                            &#x27;format&#x27;:
+    &#x27;%(asctime)s [%(process)d] &#x27;\n                                      &#x27;[%(levelname)s]
+    pathname=%(pathname)s &#x27;\n                                      &#x27;lineno=%(lineno)s
+    funcname=%(funcName)s &#x27;\n                                      &#x27;%(message)s&#x27;}},\n
+    &#x27;handlers&#x27;: {&#x27;console&#x27;: {&#x27;class&#x27;: &#x27;logging.StreamHandler&#x27;,\n
+    \                         &#x27;formatter&#x27;: &#x27;verbose&#x27;,\n                          &#x27;level&#x27;:
+    &#x27;DEBUG&#x27;},\n              &#x27;null&#x27;: {&#x27;class&#x27;: &#x27;logging.NullHandler&#x27;,
+    &#x27;level&#x27;: &#x27;DEBUG&#x27;}},\n &#x27;loggers&#x27;: {&#x27;testlogger&#x27;:
+    {&#x27;handlers&#x27;: [&#x27;console&#x27;], &#x27;level&#x27;: &#x27;INFO&#x27;}},\n
+    &#x27;version&#x27;: 1}</pre></td>\n        </tr>\n      \n        <tr>\n          <td>LOGGING_CONFIG</td>\n
+    \         <td class=\"code\"><pre>&#x27;logging.config.dictConfig&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>LOGIN_REDIRECT_URL</td>\n          <td
+    class=\"code\"><pre>&#x27;/accounts/profile/&#x27;</pre></td>\n        </tr>\n
+    \     \n        <tr>\n          <td>LOGIN_URL</td>\n          <td class=\"code\"><pre>&#x27;/accounts/login/&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>LOGOUT_REDIRECT_URL</td>\n
+    \         <td class=\"code\"><pre>None</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>MANAGERS</td>\n          <td class=\"code\"><pre>[]</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>MEDIA_ROOT</td>\n          <td
+    class=\"code\"><pre>&#x27;&#x27;</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>MEDIA_URL</td>\n          <td class=\"code\"><pre>&#x27;/&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>MESSAGE_STORAGE</td>\n          <td
+    class=\"code\"><pre>&#x27;django.contrib.messages.storage.fallback.FallbackStorage&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>MIDDLEWARE</td>\n          <td
+    class=\"code\"><pre>(&#x27;whitenoise.middleware.WhiteNoiseMiddleware&#x27;,\n
+    &#x27;django.middleware.security.SecurityMiddleware&#x27;,\n &#x27;django.contrib.sessions.middleware.SessionMiddleware&#x27;,\n
+    &#x27;django.middleware.common.CommonMiddleware&#x27;,\n &#x27;django.contrib.auth.middleware.AuthenticationMiddleware&#x27;,\n
+    &#x27;django.contrib.messages.middleware.MessageMiddleware&#x27;,\n &#x27;django.middleware.clickjacking.XFrameOptionsMiddleware&#x27;)</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>MIGRATION_MODULES</td>\n          <td
+    class=\"code\"><pre>{}</pre></td>\n        </tr>\n      \n        <tr>\n          <td>MONTH_DAY_FORMAT</td>\n
+    \         <td class=\"code\"><pre>&#x27;F j&#x27;</pre></td>\n        </tr>\n
+    \     \n        <tr>\n          <td>NUMBER_GROUPING</td>\n          <td class=\"code\"><pre>0</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>PASSWORD_HASHERS</td>\n          <td
+    class=\"code\"><pre>&#x27;********************&#x27;</pre></td>\n        </tr>\n
+    \     \n        <tr>\n          <td>PASSWORD_RESET_TIMEOUT</td>\n          <td
+    class=\"code\"><pre>&#x27;********************&#x27;</pre></td>\n        </tr>\n
+    \     \n        <tr>\n          <td>PASSWORD_RESET_TIMEOUT_DAYS</td>\n          <td
+    class=\"code\"><pre>&#x27;********************&#x27;</pre></td>\n        </tr>\n
+    \     \n        <tr>\n          <td>PREPEND_WWW</td>\n          <td class=\"code\"><pre>False</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>ROOT_URLCONF</td>\n          <td
+    class=\"code\"><pre>&#x27;web.urls&#x27;</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>SECRET_KEY</td>\n          <td class=\"code\"><pre>&#x27;********************&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>SECURE_BROWSER_XSS_FILTER</td>\n
+    \         <td class=\"code\"><pre>False</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>SECURE_CONTENT_TYPE_NOSNIFF</td>\n          <td class=\"code\"><pre>True</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>SECURE_HSTS_INCLUDE_SUBDOMAINS</td>\n
+    \         <td class=\"code\"><pre>False</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>SECURE_HSTS_PRELOAD</td>\n          <td class=\"code\"><pre>False</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>SECURE_HSTS_SECONDS</td>\n
+    \         <td class=\"code\"><pre>0</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>SECURE_PROXY_SSL_HEADER</td>\n          <td class=\"code\"><pre>None</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>SECURE_REDIRECT_EXEMPT</td>\n
+    \         <td class=\"code\"><pre>[]</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>SECURE_REFERRER_POLICY</td>\n          <td class=\"code\"><pre>&#x27;same-origin&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>SECURE_SSL_HOST</td>\n          <td
+    class=\"code\"><pre>None</pre></td>\n        </tr>\n      \n        <tr>\n          <td>SECURE_SSL_REDIRECT</td>\n
+    \         <td class=\"code\"><pre>False</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>SERVER_EMAIL</td>\n          <td class=\"code\"><pre>&#x27;root@localhost&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>SESSION_CACHE_ALIAS</td>\n
+    \         <td class=\"code\"><pre>&#x27;default&#x27;</pre></td>\n        </tr>\n
+    \     \n        <tr>\n          <td>SESSION_COOKIE_AGE</td>\n          <td class=\"code\"><pre>1209600</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>SESSION_COOKIE_DOMAIN</td>\n
+    \         <td class=\"code\"><pre>None</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>SESSION_COOKIE_HTTPONLY</td>\n          <td class=\"code\"><pre>True</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>SESSION_COOKIE_NAME</td>\n
+    \         <td class=\"code\"><pre>&#x27;sessionid&#x27;</pre></td>\n        </tr>\n
+    \     \n        <tr>\n          <td>SESSION_COOKIE_PATH</td>\n          <td class=\"code\"><pre>&#x27;/&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>SESSION_COOKIE_SAMESITE</td>\n
+    \         <td class=\"code\"><pre>&#x27;Lax&#x27;</pre></td>\n        </tr>\n
+    \     \n        <tr>\n          <td>SESSION_COOKIE_SECURE</td>\n          <td
+    class=\"code\"><pre>False</pre></td>\n        </tr>\n      \n        <tr>\n          <td>SESSION_ENGINE</td>\n
+    \         <td class=\"code\"><pre>&#x27;django.contrib.sessions.backends.db&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>SESSION_EXPIRE_AT_BROWSER_CLOSE</td>\n
+    \         <td class=\"code\"><pre>False</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>SESSION_FILE_PATH</td>\n          <td class=\"code\"><pre>None</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>SESSION_SAVE_EVERY_REQUEST</td>\n
+    \         <td class=\"code\"><pre>False</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>SESSION_SERIALIZER</td>\n          <td class=\"code\"><pre>&#x27;django.contrib.sessions.serializers.JSONSerializer&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>SETTINGS_MODULE</td>\n          <td
+    class=\"code\"><pre>&#x27;web.settings&#x27;</pre></td>\n        </tr>\n      \n
+    \       <tr>\n          <td>SHORT_DATETIME_FORMAT</td>\n          <td class=\"code\"><pre>&#x27;m/d/Y
+    P&#x27;</pre></td>\n        </tr>\n      \n        <tr>\n          <td>SHORT_DATE_FORMAT</td>\n
+    \         <td class=\"code\"><pre>&#x27;m/d/Y&#x27;</pre></td>\n        </tr>\n
+    \     \n        <tr>\n          <td>SIGNING_BACKEND</td>\n          <td class=\"code\"><pre>&#x27;django.core.signing.TimestampSigner&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>SILENCED_SYSTEM_CHECKS</td>\n
+    \         <td class=\"code\"><pre>[]</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>STATICFILES_DIRS</td>\n          <td class=\"code\"><pre>[]</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>STATICFILES_FINDERS</td>\n
+    \         <td class=\"code\"><pre>[&#x27;django.contrib.staticfiles.finders.FileSystemFinder&#x27;,\n
+    &#x27;django.contrib.staticfiles.finders.AppDirectoriesFinder&#x27;]</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>STATICFILES_STORAGE</td>\n
+    \         <td class=\"code\"><pre>&#x27;whitenoise.storage.CompressedManifestStaticFilesStorage&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>STATIC_ROOT</td>\n          <td
+    class=\"code\"><pre>&#x27;/app/staticfiles&#x27;</pre></td>\n        </tr>\n      \n
+    \       <tr>\n          <td>STATIC_URL</td>\n          <td class=\"code\"><pre>&#x27;/static/&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>TEMPLATES</td>\n          <td
+    class=\"code\"><pre>[{&#x27;APP_DIRS&#x27;: True,\n  &#x27;BACKEND&#x27;: &#x27;django.template.backends.django.DjangoTemplates&#x27;,\n
+    \ &#x27;DIRS&#x27;: [],\n  &#x27;OPTIONS&#x27;: {&#x27;context_processors&#x27;:
+    [&#x27;django.template.context_processors.debug&#x27;,\n                                     &#x27;django.template.context_processors.request&#x27;,\n
+    \                                    &#x27;django.contrib.auth.context_processors.auth&#x27;,\n
+    \                                    &#x27;django.contrib.messages.context_processors.messages&#x27;]}}]</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>TEST_NON_SERIALIZED_APPS</td>\n
+    \         <td class=\"code\"><pre>[]</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>TEST_RUNNER</td>\n          <td class=\"code\"><pre>&#x27;django.test.runner.DiscoverRunner&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>THOUSAND_SEPARATOR</td>\n          <td
+    class=\"code\"><pre>&#x27;,&#x27;</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>TIME_FORMAT</td>\n          <td class=\"code\"><pre>&#x27;P&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>TIME_INPUT_FORMATS</td>\n          <td
+    class=\"code\"><pre>[&#x27;%H:%M:%S&#x27;, &#x27;%H:%M:%S.%f&#x27;, &#x27;%H:%M&#x27;]</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>TIME_ZONE</td>\n          <td
+    class=\"code\"><pre>&#x27;UTC&#x27;</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>USE_I18N</td>\n          <td class=\"code\"><pre>True</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>USE_L10N</td>\n          <td
+    class=\"code\"><pre>True</pre></td>\n        </tr>\n      \n        <tr>\n          <td>USE_THOUSAND_SEPARATOR</td>\n
+    \         <td class=\"code\"><pre>False</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>USE_TZ</td>\n          <td class=\"code\"><pre>True</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>USE_X_FORWARDED_HOST</td>\n
+    \         <td class=\"code\"><pre>False</pre></td>\n        </tr>\n      \n        <tr>\n
+    \         <td>USE_X_FORWARDED_PORT</td>\n          <td class=\"code\"><pre>False</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>WSGI_APPLICATION</td>\n          <td
+    class=\"code\"><pre>&#x27;web.wsgi.application&#x27;</pre></td>\n        </tr>\n
+    \     \n        <tr>\n          <td>X_FRAME_OPTIONS</td>\n          <td class=\"code\"><pre>&#x27;DENY&#x27;</pre></td>\n
+    \       </tr>\n      \n        <tr>\n          <td>YEAR_MONTH_FORMAT</td>\n          <td
+    class=\"code\"><pre>&#x27;F Y&#x27;</pre></td>\n        </tr>\n      \n    </tbody>\n
+    \ </table>\n\n</div>\n\n  <div id=\"explanation\">\n    <p>\n      Youre seeing
+    this error because you have <code>DEBUG = True</code> in your\n      Django settings
+    file. Change that to <code>False</code>, and Django will\n      display a standard
+    page generated by the handler for this status code.\n    </p>\n  </div>\n\n</body>\n</html>\n"
+- source:
+    id: engadget
+    name: Engadget
+  author: https://www.engadget.com/about/editors/jon-fingas
+  title: Samsung's 49-inch mini-LED gaming monitor will sell for $2,500 | Engadget
+  description: Samsung is finally launching its mini-LED curved gaming monitor, the
+    Odyssey Neo G9 — but it will cost you $2,500 to get one..
+  url: https://www.engadget.com/samsung-odyssey-neo-g9-price-pre-order-020000540.html
+  urlToImage: https://s.yimg.com/os/creatr-uploaded-images/2021-07/675f0c80-ee0d-11eb-af77-b9881b362301
+  publishedAt: '2021-07-27T02:07:18.7609906Z'
+  content: How much would you spend for a no-compromise mini-LED gaming monitor? Samsung
+    thinks it has an answer. The company will start taking pre-orders for its long-teased
+    Odyssey Neo G9 display on July 29th… [+1137 chars]
+  page_url: "/samsung-odyssey-neo-g9-price-pre-order-020000540.html"
+  summary: However, you're also getting extremely bright HDR thanks to a peak brightness
+    of 2,000 nits that makes many TVs seem dim by comparison. However, it's also apparent
+    that Samsung is targeting a fairly narrow audience  The Neo G9 is meant for well-heeled
+    gamers who want the most immersive non-VR experience possible. How much would
+    you spend for a no-compromise mini-LED gaming monitor? The company will start
+    taking pre-orders for its long-teased Odyssey Neo G9 display on July 29th for
+    $2,500. Samsung claims a black level of just 0.0004. Samsung thinks it has an
+    answer.
+- source:
+    id: engadget
+    name: Engadget
+  author: https://www.engadget.com/about/editors/cherlynn-low
+  title: Samsung says an S Pen for foldables is coming at Unpacked | Engadget
+  description: Samsung will be launching the third generation of its Galaxy Z series
+    and "the first-ever S Pen designed specifically for foldable phones.".
+  url: https://www.engadget.com/samsung-unpacked-august-2021-s-pen-foldables-galaxy-z-fold-3-z-flip-230006850.html
+  urlToImage: https://s.yimg.com/os/creatr-uploaded-images/2021-07/3b6df2e0-ee39-11eb-8bbf-035ccaf78d46
+  publishedAt: '2021-07-26T23:07:19.4394598Z'
+  content: Ahead of its upcoming Galaxy Unpacked event, Samsung has published a blog
+    post by its president TM Roh that basically tells us what it plans to announce
+    next month. In addition to a new Galaxy Watch … [+2403 chars]
+  page_url: "/samsung-unpacked-august-2021-s-pen-foldables-galaxy-z-fold-3-z-flip-230006850.html"
+  summary: If you choose to go through the company's Reserve Now program, you can
+    trade in up to two devices, including phones, tablets and wearables, towards a
+    new Galaxy product. But it clearly also wants people to be excited  excited enough
+    that they might be temped to reserve one of the new Z series devices already.
+    Ahead of its upcoming Galaxy Unpacked event, Samsung has published a blog post
+    by its president TM Roh that basically tells us what it plans to announce next
+    month. I'd recommend till we learn more about what's coming on August 11th before
+    doing that, and you can join us on Engadget's YouTube channel to watch Unpacked
+    live. Of course, Samsung shared little else about this S Pen besides the fact
+    that it's coming, so there are plenty of unknowns at the moment. We can expect
+    "hands-free optimized video calling with Google Duo and watching videos in Flex
+    mode on YouTube," as well as "multitasking in Microsoft Teams." What size is its
+    nib, what is its pressure sensitivity and will the foldables have onboard slots
+    to house it?
+- source:
+    id: engadget
+    name: Engadget
+  author: https://www.engadget.com/about/editors/igor-bonifacic
+  title: Activision Blizzard employees decry 'abhorrent' company response to harassment
+    lawsuit | Engadget
+  description: Employees at Activision Blizzard are calling on the company to issue
+    a new statement in response to the lawsuit it’s facing from the California Department
+    of Fair Employment and Housing (DFEH)..
+  url: https://www.engadget.com/activision-blizzard-employee-open-letter-221223475.html
+  urlToImage: https://s.yimg.com/os/creatr-uploaded-images/2021-07/eab98e40-eac8-11eb-aefb-94d36d9a725a
+  publishedAt: '2021-07-26T22:22:22.1646371Z'
+  content: "Employees at Activision Blizzard are calling on the company to issue a
+    new statement in response to the lawsuit its facing from the California Department
+    of Fair Employment and Housing (DFEH)\r\n. If y… [+2192 chars]"
+  page_url: "/activision-blizzard-employee-open-letter-221223475.html"
+  summary: Categorizing the claims that have been made as distorted, and in many cases
+    false creates a company atmosphere that disbelieves victims, the letter states.
+    The Zoom call was supposed to include the entire studio, but a scheduling error
+    meant not everyone could join the meeting. Weve reached out to Activision Blizzard
+    for comment.Please enter a valid email address
+- source:
+    id: engadget
+    name: Engadget
+  author: https://www.engadget.com/about/editors/andrew-tarantola
+  title: Tesla breaks its own delivery record by building and shipping 200,000 vehicles
+    in Q2 | Engadget
+  description: Tesla announced a number of "new and notable records" during its Q2
+    earnings call on Monday..
+  url: https://www.engadget.com/tesla-sets-delivery-record-by-building-and-shipping-200000-vehicles-in-q-2-213045738.html
+  urlToImage: https://s.yimg.com/os/creatr-uploaded-images/2021-07/7cb62bc0-ee50-11eb-bfbd-2f482d134668
+  publishedAt: '2021-07-26T21:37:23.5896752Z'
+  content: Tesla appears to have shrugged off the production woes it suffered last
+    year during the COVID lockdown with the company announcing a number of "new and
+    notable records" during its Q2 earnings call on… [+1574 chars]
+  page_url: "/tesla-sets-delivery-record-by-building-and-shipping-200000-vehicles-in-q-2-213045738.html"
+  summary: The company is also getting closer to switching over to its new 4680 battery
+    cells, having successfully validated the battery tech's "performance and lifetime"
+    at its California-based fabrication facility. Tesla CEO Elon Musk also revealed
+    more details about the company's plan to open its Supercharger network to other
+    EV brands later this year. "After selling over a million vehicles equipped with
+    radar, we have collected enough data to start removing it in some regions," the
+    company wrote in its shareholder deck. In terms of tech, Tesla's use of radar
+    as part of the vehicle's Full Self Driving system will soon be coming to an end.
+    "The removal of radar, which is enabled by our collection of a vast dataset of
+    corner cases, allows us to focus on vision and increase the pace of improvement."
+    Musk said, warning that the issue will likely not be resolved before the end of
+    this year. He did note, however, that the ongoing global shortage of microchips
+    remains an cantraining force on vehicle production.
+- source:
+    id: engadget
+    name: Engadget
+  author: https://www.engadget.com/about/editors/saqib-shah
+  title: Samsung's 'The Wall' will be used to form a virtual movie studio | Engadget
+  description: Samsung has struck a partnership with 'Parasite' studio CJ ENM to provide
+    massive microLED displays for its virtual production studio..
+  url: https://www.engadget.com/samsung-the-wall-virtual-movie-studio-121524064.html
+  urlToImage: https://s.yimg.com/os/creatr-uploaded-images/2021-07/aaf496f0-ee07-11eb-be5f-44a95e47fd96
+  publishedAt: '2021-07-26T19:52:21.0415843Z'
+  content: The emergence of virtual productions like those popularized by Disney's
+    The Mandalorian have given display giants a new niche for their massive screens.
+    Sony, which boasts a movie production arm, is … [+1894 chars]
+  page_url: "/samsung-the-wall-virtual-movie-studio-121524064.html"
+  summary: Samsung says its massive screen measures over 1,000 inches and supports
+    up to 16K high-resolution content.But, the Korean company hasn't embraced virtual
+    production quite like Sony. The emergence of virtual productions like those popularized
+    by Disney's The Mandalorian have given display giants a new niche for their massive
+    screens. As a result, virtual production is expected to become the norm in filmmaking
+    within five years, according to an industry report by the Gteborg Film Festival.
+    Sony, which boasts a movie production arm, is already using its modular crystal
+    LEDs to provide backgrounds for shoots. The company will install an oval-shaped
+    main display at CJ ENM's new complex with a diameter of 20 metres and a height
+    of seven metres or more. Samsung says its latest screens will deliver improved
+    visuals thanks to their support for HDR 10+ and optimized frame rates such as
+    23.976Hz, 29.97Hz and 59.94Hz. Virtual productions are gaining traction in global
+    filmmaking.
+- source:
+    id: engadget
+    name: Engadget
+  author: https://www.engadget.com/about/editors/igor-bonifacic
+  title: Blue Origin offers NASA $2 billion in last-ditch attempt at lunar lander
+    contract | Engadget
+  description: Blue Origin founder Jeff Bezos has penned an open letter to NASA in
+    which he says his company will waive $2 billion in payments in return for a fixed-price
+    lander contract..
+  url: https://www.engadget.com/jeff-bezos-nasa-open-letter-181522642.html
+  urlToImage: https://s.yimg.com/os/creatr-uploaded-images/2021-07/200352f0-e66b-11eb-9c7f-9e1364ce59d9
+  publishedAt: '2021-07-26T18:22:22.8911638Z'
+  content: After returning from the edge of space, Jeff Bezos has personally waded
+    into Blue Origin's dispute with NASA over its decision to award a $2.9 billion
+    lunar lander contract to Elon Musk's SpaceX. In … [+2374 chars]
+  page_url: "/jeff-bezos-nasa-open-letter-181522642.html"
+  summary: '"Instead of investing in two competing lunar landers as originally intended,
+    the Agency chose to confer a multi-year, multi-billion-dollar head start to SpaceX,"
+    the former Amazon CEO said. Notably, this isn''t the first time a Bezos-affiliated
+    company has got itself into a contract dispute with the US government. "That decision
+    broke the mold of NASA''s successful commercial space programs by putting an end
+    to meaningful competition for years to come. "While Bezos spends a significant
+    part of his letter talking about Blue Origin''s commitment to "advance America''s
+    future in space," his offer isn''t altruistic. "This offer is not a deferral,
+    but is an outright and permanent waiver of those payments," Bezos said in the
+    letter. In 2019, Amazon challenged the Department of Defense''s decision to award
+    Microsoft its $10 billion Joint Enterprise Defense Infrastructure (JEDI) cloud
+    contract. At the heart of it is the belief that NASA unfairly excluded his company
+    from a lucrative and prestigious contract.'
+- source:
+    id: engadget
+    name: Engadget
+  author: https://www.engadget.com/about/editors/valentina-palladino
+  title: The best Apple AirTag accessories you can buy | Engadget
+  description: Here’s a list of the best Apple AirTag holders, cases and accessories,
+    as chosen by Engadget editors..
+  url: https://www.engadget.com/best-apple-airtag-cases-holders-accessories-123036404.html
+  urlToImage: https://s.yimg.com/os/creatr-uploaded-images/2021-07/2d5b13d0-ea57-11eb-8ebf-7551f930a3a0
+  publishedAt: '2021-07-26T15:37:20.8231904Z'
+  content: Apple lovers who constantly lose their keys got a new way to keep track
+    of them with the launch of AirTags. But despite how easy they are to set up, Apples
+    tiny Bluetooth trackers have one critical f… [+5982 chars]
+  page_url: "/best-apple-airtag-cases-holders-accessories-123036404.html"
+  summary: I liked Spigens AirTag Case Valentinus because it has an almost identical
+    design and comes with an easy to use carabiner-style key ring. But if youd rather
+    hook the tracker to the outside, youll need something a bit larger and more flexible
+    than a standard key ring. The case opens up into two pieces, allowing you to sit
+    the AirTag inside the circle and twist and snap the two halves together to lock
+    it in. One side of the gadget is completely covered by the case, as is the whole
+    circumference. The other side has a smaller opening that attaches to the included
+    carabiner, which is one of the best clips I came across in my testing. Casetify
+    has a limited selection of customizable AirTag holders that you can emblazon with
+    hearts, butterflies, peace signs and even the initials or name of the owner. Its
+    a textured oval made of flexible plastic into which you pop in the AirTag on one
+    side.
+- source:
+    id: engadget
+    name: Engadget
+  author: https://www.engadget.com/about/editors/jon-fingas
+  title: Microsoft Surface Duo 2 leak hints at a massive camera upgrade | Engadget
+  description: A leak has revealed images of what might be the Microsoft Surface Duo
+    2, complete with a giant camera bump and a black color option..
+  url: https://www.engadget.com/microsoft-surface-duo-2-images-leak-133233711.html
+  urlToImage: https://s.yimg.com/os/creatr-uploaded-images/2021-07/8ba48ff0-ee0f-11eb-b7f3-07bf0ce48190
+  publishedAt: '2021-07-26T13:37:19.8721306Z'
+  content: Microsoft's Surface Duo drew flak for delivering outdated specs at top-tier
+    prices (among other missteps), but that might not be true for the sequel. Windows
+    Central has shared a Tech Rat leak purpor… [+1226 chars]
+  page_url: "/microsoft-surface-duo-2-images-leak-133233711.html"
+  summary: Most notably, there's a conspicuous rear camera bump with three sensors  you
+    wouldn't have to use a single camera for everything. Microsoft's Surface Duo drew
+    flak for delivering outdated specs at top-tier prices (among other missteps),
+    but that might not be true for the sequel. No more using year-old parts with glaring
+    omissions, to put it another way.WC claimed Microsoft will launch the Duo 2 sometime
+    in September or October. Microsoft will reportedly outfit the Surface Duo 2 with
+    a Snapdragon 888 chip, 5G and NFC.
+- source:
+    id: engadget
+    name: Engadget
+  author: https://www.engadget.com/about/editors/saqib-shah
+  title: A magnetic helmet shrunk a deadly tumor in world-first test | Engadget
+  description: Scientists have created a helmet that uses magnetic therapy to reduce
+    deadly brain tumors..
+  url: https://www.engadget.com/magnetic-helmet-tumor-093523598.html
+  urlToImage: https://s.yimg.com/os/creatr-uploaded-images/2021-07/353f6360-edf1-11eb-9fef-c30bb34361f2
+  publishedAt: '2021-07-26T09:37:25.4865717Z'
+  content: We've seen helmets and AI that can spot brain tumors, but a new hard hat
+    can actually treat them, too. As part of the latest neurological breakthrough,
+    researchers used a helmet that generates a magn… [+1516 chars]
+  page_url: "/magnetic-helmet-tumor-093523598.html"
+  summary: The resulting magnetic field therapy created by the helmet was administered
+    for two hours initially and then ramped up to a maximum of six hours per day.
+    As part of the latest neurological breakthrough, researchers used a helmet that
+    generates a magnetic field to shrink a deadly tumor by a third. As part of the
+    therapy, the patient wore the device for five weeks at a clinic and then at home
+    with the help of his wife. But, an autopsy of his brain showed that the procedure
+    had removed 31 percent of the tumor mass in a short time. We've seen helmets and
+    AI that can spot brain tumors, but a new hard hat can actually treat them, too.
+    The 53-year-old patient who underwent the treatment ultimately passed away due
+    to an unrelated injury. Details of the procedure have been published in the peer-reviewed
+    journal Frontiers in Oncology.Please enter a valid email address
