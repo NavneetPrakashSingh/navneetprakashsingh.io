@@ -20,7 +20,7 @@ comments: false
 </div>
 <div class="row">
 <div class="col-12">
-<div>Amazon's long-awaited The Lord of the Rings series has a release date, but don't go rushing to stake out the best spot in your living room just yet. It depicts a figure looking at a vista with a white city and, much further away, the outline of two curious trees. The show will premiere on September 2nd, 2022, with new episodes dropping on Prime Video each week. The series takes place thousands of years before the events of The Hobbit and The Lord of the Rings. Filming on the as-yet-untitled series wrapped up today. Production began in February 2020, but it was disrupted by the COVID-19 pandemic.</div>
+<div>Amazon's long-awaited The Lord of the Rings series has a release date, but don't go rushing to stake out the best spot in your living room just yet. It depicts a figure looking at a vista with a white city and, much further away, the outline of two curious trees. The show will premiere on September 2nd, 2022, with new episodes dropping on Prime Video each week. pic.twitter.com/9tnR7WqDoAThe series takes place thousands of years before the events of The Hobbit and The Lord of the Rings. Filming on the as-yet-untitled series wrapped up today. On September 2, 2022, a new journey begins. Production began in February 2020, but it was disrupted by the COVID-19 pandemic.</div>
 </div>
 </div>
 <div class="row">
